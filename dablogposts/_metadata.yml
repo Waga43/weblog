@@ -1,0 +1,240 @@
+project:
+  type: website
+  output-dir: docs
+jupyter: python3
+# engine: knitr
+
+# Website Options
+website:
+  title: "ETTM Weblog"
+  description: "EduTechTainMent | ETTM Weblog"
+  image: assets\001_White_ETTM_Logo-Rectangle.jpg
+  # site-url: "https://ettm.edutechtainment.net/"
+  # google-analytics: "W-0044RYYG9CZ"
+  page-navigation: true
+  back-to-top-navigation: true
+  favicon: favicon.ico
+  cookie-consent: true
+
+  announcement:
+    content: "**📣🗣 Welcome to ETTM Weblog:** _Over Every Possessor of Knowledge, There is (Some) One (Else) More Knowledgeable_"
+    position: above-navbar
+    type: success
+
+  open-graph: true
+  twitter-card:
+    site: "@EduTechTainMent"
+    creator: "@EduTechTainMent"
+
+  page-footer:
+    border: true
+    background: rgb(0, 48, 73)
+
+    center:
+      # - This website is built by &copy; EduTechTainMent with ❤️.
+
+      - text: "About"
+        href: about.qmd
+
+      - text: "License"
+        href: license.qmd
+
+      - text: "Trademark"
+        href: trademark.qmd
+
+    left:
+      # - text: ETTM Forum
+      #   href: https://edutechtainment.net
+      #   target: _blank
+      # - Send a {{< fa envelope title="An envelope" >}}
+      - This website is built with ❤️ by &copy; EduTechTainMent | 2025
+
+    right:
+      - text: EduTechTainMent
+        href: https://edutechtainment.net
+        target: _blank
+
+  sidebar:
+    location: right
+    style: "floating"
+    # search: true
+    header: "**Welcome to my Weblog**"
+    footer: "[EduTechTainMent](https://edutechtainment.net)"
+
+    menu:
+      - text: GitHub
+        href: https://github.com/waga43
+        target: _blank
+
+      - text: ETTM LMS
+        href: https://lms.edutechtainment.net
+        target: _blank
+
+    tools:
+      - icon: github
+        text: GitHub
+        href: https://github.com/waga43/
+        target: _blank
+
+      - icon: linkedin
+        text: LinkedIn
+        href: https://linkedi.com/in/abdulwasiu
+        target: _blank
+
+      - icon: envelope
+        text: Mail
+        href: mailto:edutech.tm@gmail.com
+        target: _blank
+
+      - icon: youtube
+        text: YouTube
+        href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+        target: _blank
+
+    contents:
+      - text: "🏠 Home"
+        file: index.qmd
+
+      - section: "✍🏾 Blogs"
+        contents:
+        - text: "📊 DA & DS"
+          href: dablogposts.qmd
+        - text: "📈 ML & AI"
+          href: mlblogposts.qmd
+
+        # - text: "Placeholder Text"
+        #   href: about.qmd
+        # - text: "Placeholder Text"
+        #   href: about.qmd
+        # - text: "Placeholder Text"
+        # - text: "Social"
+        #   href: "about.qmd"
+
+      - section: "📚 Manuscripts"
+        contents:
+        - text: "🏫 Public Works"
+          href: publicworksblogposts.qmd
+        - text: "🎓 Academic Works"
+          href: academicblogposts.qmd
+
+      - section: "✨ Extra"
+        contents:
+        - about.qmd
+
+  navbar:
+    left:
+      # logo: ai3.png
+      - href: index.qmd
+        text: 🏠 Home
+      - about.qmd
+
+      - text: 📔 Data Blog
+        menu:
+          - text: "📊 DA & DS"
+            href: dablogposts.qmd
+          - text: "📈 ML & AI"
+            href: mlblogposts.qmd
+
+      - text: "📚 Manuscripts"
+        menu:
+          - text: "🏫 Public Works"
+            href: publicworksblogposts.qmd
+          - text: "🎓 Academic Works"
+            href: academicbloposts.qmd
+
+    right:
+      - text: 🌐 Additional Sites
+        menu:
+          - text: 👨‍👩‍👦‍👦 ETTM Forum
+            href: https://edutechtainment.net
+            target: _blank
+
+          - text: 📹 ETTM YouTube
+            # icon: align-justify
+            href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+            target: _blank
+
+          # - text: 👨‍👩‍👦‍👦 ETTM Forum
+          #   href: https://edutechtainment.net
+          #   target: _blank
+          #   # icon: cloudversify
+
+          - text: 👨🏽‍🎓 ETTM LMS
+            # icon: graduation-cap
+            href: https://lms.edutechtainment.net
+            target: _blank
+
+format:
+  html:
+    theme:
+      light: cosmo #zephyr
+      dark: cyborg #darkly
+    css: styles.css
+    toc: true
+    toc-title: Table of Contents
+    toc-location: right
+    toc-depth: 5
+
+    other-links:
+      - text: 📹 ETTM YouTube
+        # icon: align-justify
+        href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+        target: _blank
+
+      - text: 👨‍👩‍👦‍👦 ETTM Forum
+        href: https://edutechtainment.net
+        target: _blank
+        # icon: cloudversify
+
+      - text: 👨🏽‍🎓 ETTM LMS
+        # icon: graduation-cap
+        href: https://lms.edutechtainment.net
+        target: _blank
+
+    # code-links:
+    #   - text: Data Import Code
+    #     icon: align-justify
+    #     href: pkgs.txt
+
+    link-external-icon: true
+    link-external-newwindow: true
+
+    comments:
+      hypothesis:
+        theme: classic
+        showHighlights:  true
+      utterances:
+        repo:  Waga43/ETTM-Quarto-Weblog
+
+  # Other Possible website Output Formats
+  # revealjs: 
+  #   output-file: document-revealjs.html
+  # pdf: default
+  # docx:
+  #   toc: true
+  #   number-sections: true
+  #   highlight-style: github
+  # typst: default
+  # word: default
+
+# format-links: 
+#   - pdf
+#   - text: Other Link
+#     href: https://quarto.org/
+#     icon: hand-thumbs-up #bar-chart-steps
+
+# How Images should be Handled
+lightbox:
+  match: auto
+  effect: zoom
+  desc-position: bottom
+  loop: true
+
+
+# page-footer:
+#     background: light
+#     left: This Weblog by EduTechTainMent is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+#     right: This website is built with {{< fa heart title="a heart" >}} and [Quarto](https://quarto.org/)
+
+
+

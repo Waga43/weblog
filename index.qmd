@@ -1,0 +1,180 @@
+---
+title: "Abdulwasiu Bamidele Popoola"
+image: ./assets/myprofile.jpg
+toc: false
+page-layout: full
+about: 
+  template: jolla # jolla trestles solana marquee broadside
+  image-shape: round
+  image-alt: Abdulwasiu Bamidele Popoola
+  image-title: A.B. Popoola Profile Image
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/abdulwasiu/
+      icon: linkedin
+      target: _blank
+
+    - text: GitHub
+      href: https://github.com/waga43
+      icon: github
+      target: _blank
+
+    - text: Email
+      href: mailto:edutech_tm@gmail.com
+      icon: envelope
+      target: _blank
+      
+
+    - text: YouTube
+      href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+      icon: youtube
+      target: _blank
+---
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Welcome to my Weblog. It's a pleasure having you here. Let me give a quick background information about me.
+
+## Education
+
+MBBS \| Bayero University Kano \|
+
+MSc. Human Physiology \| Bayero University Kano \|
+
+------------------------------------------------------------------------
+
+Head of Clinical and Immediate Past Director, University Health Services,
+
+Federal University Dutse (FUD), Jigawa State, Nigeria
+
+Adjunct Lecturer, Dept. of Human Physiology,
+
+Faculty of Basic Medical Sciences,
+
+College of Medicine and Allied Medical Sciences,
+
+Federal University Dutse, Jigawa State, Nigeria.
+
+------------------------------------------------------------------------
+
+## Professional Certifications
+
+ADAPTI cert. (2019) \| Data Science Dojo cert (2022) \|
+
+McKinsey Forward (2022) \|
+
+CoRise Python for Data Science cert. (2022) \| CoRise SQL Crash Course cert. (2022)
+
+I4GxZuri Full-Stack Web Developer Cert. (2022) \|
+
+Hamoye Data Science (2022 and 2024) \|
+
+Udacity Certified Data Analyst (2022) \|
+
+Google Certified Data Analyst (2023) \|
+
+IBM Certified Data Analyst (2023) \|
+
+Udacity Python for Data Science cert. (2023) \|
+
+**Founder:** EduTechTainMent Ltd ®
+
+------------------------------------------------------------------------
+
+## Web Dev Projects 1
+
+::: panel-tabset
+## EduTechTainMent Forum
+
+Join my 👨‍👩‍👦‍👦 [ETTM Forum](https://edutechtainment.net)
+
+## EduTechTainMent LMS
+
+Join and indicate interest in any courses 📖 on the [EduTechTainMent LMS](https://lms.edutechtainment.net)
+
+## NMA Jigawa AGM
+
+Built a [Landing Page for NMA Jigawa AGM](https://is.gd/nmajigawa2024agm)
+
+## 
+:::
+
+## Web Dev Projects 2
+
+::: panel-tabset
+## NMA Jigawa Annual Scientific Conference
+
+Built a [Landing Page of NMA Jigawa Annual Scientific Conference](https://is.gd/nmajigawa)
+
+## NBRRI International Workshop
+
+Built a [Landing Page for the Nigeria Building and Road Research Institute (NBRRI) International Workshop](https://da.gd/nbrri2024)
+
+And some more 🙂 😊 ........
+
+:::
+
+------------------------------------------------------------------------
+
+## Contact Me
+
+::: panel-tabset
+## Personal Email
+
+Send me a Personal [📨 Email](mailto:edutech.tm@gmail.com)
+
+## Institutional Email
+
+Send Abdulwasiu an [Institutional (Professional) 📨 Email](mailto:abdulwasiu.b@fud.edu.ng)
+
+## Organizational Email
+
+Send EduTechTainMent an [Organizational (Professional) 📨 Email](mailto:support@edutechtainment.net)
+:::
+
+------------------------------------------------------------------------
+
+## Public Social Profiles
+
+::: panel-tabset
+## LinkedIn
+
+Let's connect 🤝 on [LinkedIn](https://linkedin.com/in/abdulwasiu)
+
+## GitHub
+
+Check out 👀 my [GitHub Profile](https://github.com/waga43)
+
+## YouTube
+
+Watch 👁 educational and informative posts 🎞 on my [EduTechTainment YouTube Channel](https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw)
+
+## Twitter
+
+Follow me 🚶🏾‍♂️‍➡️ on [X (formerly Twitter)](https://x.com/waga43)
+
+Follow EduTechTainMent 🚶🏾‍♂️‍➡️ on [X (formerly Twitter)](https://x.com/edutech_tm)
+:::
+
+------------------------------------------------------------------------
+
+## Public Academic Profiles
+
+::: panel-tabset
+## OrCID
+
+Checkout my [OrCID Profile](https://google.com)
+
+## Scopus
+
+Checkout my [Scopus Profile](https://google.com)
+
+## Google Scholar
+
+Checkout my [Google Scholar Profile](https://scholar.google.com)
+:::
+
+------------------------------------------------------------------------

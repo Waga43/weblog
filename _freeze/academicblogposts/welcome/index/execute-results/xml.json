@@ -1,0 +1,11 @@
+{
+  "hash": "05a380bfe453cba1d64947bee2d82b76",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Welcome To My Blog\"\nauthor: \"Aishat F. Popoola\"\ndate: \"2025-03-07\"\ncategories: [news]\n---\n\n::: {#09d9a4a0 .cell execution_count=1}\n\n::: {.cell-output .cell-output-stdout}\n```\n\nWelcome to EduTechTainMent Data Science Blog.\nOver Every Possessor of Knowledge, There (is) (Some) One Else More Knowledgeable!!!\n```\n:::\n:::\n\n\n```{.python filename='welcome.py'}\n#| echo: true\n#| code-fold: show\n\nprint(f\"{'Get Started':=^80}\")\n\n```\n\nThis is the first post in a Quarto blog. Welcome!\n\nModern public health demands that decisions should be science-based and knowledge-based. As far as possible, policy-making should be made only after objective analysis of relevant information. Where information is lacking, there is a clear indication for gathering data and carrying out research to inform decision-making. It is often stated that researchers should present their results in a way that decision-makers can apply their findings. By the same token, policy-makers have the responsibility to ensure that their decisions are based on the best available scientific evidence.\n\n![](thumbnail.jpg)\n\nSince this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.\n\n::: callout-caution\n## ⛔/ Caution\n\nTake note of the following points:\n\n-   Write your name\n\n-   Write your registration number\n\n-   Attempt all questions\n:::\n\n| S/no | Name | Sex |\n|:----:|:----:|:---:|\n|  1   | Waga |  F  |\n|  2   | Sigi |  M  |\n|  3   | Ungu |  M  |\n\n: MyFirstTable\n\n![](assets/001_White_ETTM_Logo-Rectangle.jpg){fig-alt=\"MyGif\" fig-align=\"center\"}\n\nNote\n\n:   A definition of terms\n\n::: {#83ed7e82 .cell execution_count=2}\n\n::: {.cell-output .cell-output-stdout}\n```\nWelcome to Python Coding!!!\nThank you.\nWe are highly\nelated to see you\ndear friend.\nHave a swell time.\n\n\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files\\figure-jats"
+    ],
+    "filters": []
+  }
+}

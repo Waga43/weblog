@@ -1,0 +1,23 @@
+---
+title: DA/DS Weblog
+subtitle: My Data Analytics & Data Science Weblog
+
+listing:
+  contents: dablogposts
+  feed: true
+  sort: "date desc"
+  type: default
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: cloud
+  sort-ui: true
+  filter-ui: true
+  image-lazy-loading: true
+  fields: [image, date, title, description, subtitle, author, reading-time, file-modified, reading-time, categories]
+  image-placeholder: assets/001_White_ETTM_Logo-Rectangle.jpg
+page-layout: full
+title-block-banner: true
+---
+

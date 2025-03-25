@@ -1,0 +1,65 @@
+# options specified here will apply to all posts in this folder
+project:
+  type: manuscript
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    toc: true
+    comments: 
+      hypothesis: 
+        theme: classic
+        showHighlights:  true
+      utterances: 
+        repo:  Waga43/ETTM-Quarto-Weblog
+  # docx: default
+  # jats: default
+  # pdf: default
+
+# my author info
+author:
+  - name: Abdulwasiu Bamidele Popoola
+    url: https://edutechtainment.net/
+    orcid: 0009-0000-9742-777X  # Author’s Open Researcher and Contributor ID (ORCID)
+    email: abdulwasiu.b@fud.edu.ng
+    affiliation: 
+      - EduTechTainMent Ltd.
+      - Federal University Dutse, Jigawa State, Nigeria
+    affiliation-url: https://fud.edu.ng/ 
+    attributes:
+      corresponding: true
+    role: # https://quarto.org/docs/authoring/front-matter.html
+      - conceptualization: lead
+      - methodology: lead
+      - resources: lead
+      - funding: lead
+      - formal analysis: lead
+      - editing: lead
+      - writing: lead
+    degrees:
+      - MBBS
+      - MSc.
+
+# # Include bibliography File
+bibliography: ../references.bib
+
+# # Include citations
+citation: true
+
+# Copyright
+copyright: 
+  holder: Abdulwasiu Bamidele Popoola
+  year: 2025
+
+funding: "No funding was received for this work"
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+# freeze: true
+
+# Enable banner style title blocks
+title-block-banner: true
+
+

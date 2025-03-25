@@ -1,0 +1,14 @@
+---
+title: "License"
+Description: ETTM License Guiding Usage and Distribution of my Works
+---
+
+## Welcome to ETTM Weblog
+
+::: callout-important
+## Attribution
+
+Kindly ensure you give attribution when ever you use any of my works.
+
+You are allowed to publicly reuse and distribute any of the works on my weblog provided you give the right attribution.
+:::

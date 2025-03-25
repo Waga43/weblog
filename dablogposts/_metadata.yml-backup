@@ -1,0 +1,27 @@
+# options specified here will apply to all posts in this folder
+
+# Author name of all blog posts
+# author: "A. B. Popoola | EduTechTainMent"
+
+# my author info
+author:
+  - name: Abdulwasiu Bamidele Popoola
+    url: https://waga43.github.io/
+    # orcid: 0000-0002-5300-3075
+    affiliation: CEO EduTechTainMent & Federal University Dutse, Jigawa State, Nigeria
+    affiliation-url: https://fud.edu.ng/ 
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: true
+
+# Enable Blog comments 
+comments: 
+      hypothesis: 
+        theme: classic
+        showHighlights:  true
+      utterances: 
+        repo:  Waga43/ETTM-Quarto-Weblog

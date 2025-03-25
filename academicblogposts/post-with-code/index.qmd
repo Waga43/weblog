@@ -1,0 +1,123 @@
+---
+title: "Post With Code"
+# author: "Abdulwasiu Bamidele Popoola"
+date: "2025-03-10"
+categories: [news, code, analysis]
+image: "image.jpg"
+draft: true
+---
+
+This is a post with executable code.
+
+```{python}
+#| echo: true
+def greeting(name = "Waga"):
+    print(f"Good day {name}.")
+
+greeting()
+```
+
+::: callout-important
+## Don't do this
+
+Please ensure you read this section thoroughly before attempting the questions.
+:::
+
+::: panel-tabset
+## First
+
+Welcome to the first post. This is to get you up and running. Don't hesitate to reach out if you have any issues with your learning.
+
+## Second
+
+Welcome to the second post. Kindly note the rules of the game. I wish you good luck as a you start your journey.
+:::
+
+## Welcome 🙌
+
+If you do not already have a `gh-pages` branch, you can create one as follows. First, make sure you have committed all changes to your current working branch with `git status`. Then:
+
+```{bash}
+git checkout --orphan gh-pages
+git reset --hard # make sure all changes are committed before running this! git commit --allow-empty -m "Initialising gh-pages branch" 
+git push origin gh-pages
+```
+
+## Goodbye 🙌
+
+![](images/paste-1.png)
+
+## See you 🤸‍♂️
+
+Please make sure the file exists and is executable. According to Did you intend 'assign' as a Lua filter in an extension? If so, make sure you've spelled the name of the extension correctly.
+
+The original Pandoc error follows below. Error running filter
+
+::: callout-tip
+## ✅ Attention
+
+Take note of the following points:
+
+-   Write your name
+
+-   Write your registration number
+
+-   Attempt all questions
+:::
+
+Please make sure the file exists and is executable.
+
+Did you intend 'assign' as a Lua filter in an extension? If so, make sure you've spelled the name of the extension correctly.
+
+The original Pandoc error follows below. Error running filter
+
+Double-check that the last `git push` action has indeed set the **Settings** : **Pages** for your repository as expected in the previous figure. Get back to your original repository branch with, for example, `git checkout main`.
+
+According to @bharadwaj2021, people have a low life expectancy.
+
+Waga and Sigi made their claim 3 years ago [@chris2011].
+
+### **Ignoring Output**
+
+It’s important to note that you don’t need to check your `_site` or `_book` directory into version control (if you have done this in the past you know it makes for very messy diffs!). Before proceeding you should add the output directory of your project to `.gitignore`. For example:
+
+```         
+.gitignore
+```
+
+```         
+/.quarto/ /_site/
+```
+
+If you’ve already checked these files into source control you may need to remove them explicitly:
+
+```         
+Terminal
+```
+
+```         
+git rm -r _site
+```
+
+::: callout-warning
+## Error
+
+**There are various types of error in python code execution:**
+
+-   First error [Google](https://google.com)
+
+-   Second error
+
+    1.  New
+    2.  Old
+
+-   Third
+  
+
+## References
+
+::: {#refs}
+
+:::
+
+---

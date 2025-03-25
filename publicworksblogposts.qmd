@@ -1,0 +1,21 @@
+---
+title: Public Works Weblog
+subtitle: My Public Speeches, Seminars, Workshops and Trainings Weblog
+
+listing:
+  contents: publicworksblogposts
+  feed: true
+  sort: "date desc"
+  type: default
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: cloud
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: true
+---
+
+
