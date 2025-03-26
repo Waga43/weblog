@@ -6,11 +6,11 @@ jupyter: python3
 
 # Website Options
 website:
-  title: ""
+  title: "ETTM Weblog"
   description: "EduTechTainMent | ETTM Weblog"
   image: assets\profilepicx.png
-  # site-url: "https://ettm.edutechtainment.net/"
-  # google-analytics: "W-0044RYYG9CZ"
+  site-url: "https://waga43.github.io/weblog/"
+  google-analytics: "G-58YFBY5HDN"
   page-navigation: true
   back-to-top-navigation: true
   favicon: assets\favicon\favicon.ico

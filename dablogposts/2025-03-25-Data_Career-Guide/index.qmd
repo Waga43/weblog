@@ -1,0 +1,163 @@
+---
+title: EduTechTainMent Data Career Guide
+subtile: ETTM Data Guide
+draft: true
+description: |
+    This guide is provided to help those new to the field of data to get started. It not only offers basic explanation of common jargons used in the field but also provides links to valuable resources and platforms to learn, practice, and get certified as a data professional.
+
+---
+
+## The Anatomy of a Data Team
+[DataCamp shared an info-graphic showcasing the anatomy of a data team with different data roles.](https://www.datacamp.com/blog/infographic-the-anatomy-of-a-data-team-different-data-roles). You can [download the infographic to see](https://images.datacamp.com/image/upload/v1657133340/Marketing/Blog/Anatomy_of_a_Data_Team_Different_Data_Roles.pdf).
+
+A picture is worth than a thousand words, therefore you can equally checkout the info-graphics below to know more about the various data roles
+
+::: {#fig-career1 group="data-career"}
+![Astreya Data Career Guide](images/astreya-Data-career-path.png)
+:::
+::: {.attribution}
+[Astreya Associates](https://astreya.com/)
+:::
+
+::: {#fig-career2 group="data-career"}
+![Data Analyst](images/datacamp-data-analyst.png)
+:::
+::: {.attribution}
+[DataCamp](https://datacamp.com/)
+:::
+
+::: {#fig-career3 group="data-career"}
+![Data Consumers](images/datacamp-data-consumers.png)
+:::
+::: {.attribution}
+[DataCamp](https://datacamp.com/)
+:::
+
+::: {#fig-career4 group="data-career"}
+![Data Engineers](images/datacamp-data-engineers.png)
+:::
+::: {.attribution}
+[DataCamp](https://datacamp.com/)
+:::
+
+::: {#fig-career5 group="data-career"}
+![Data Scientists](images/datacamp-data-scientist.png)
+:::
+::: {.attribution}
+[DataCamp](https://datacamp.com/)
+:::
+
+::: {#fig-career6 group="data-career"}
+![Programmers](images/datacamp-programmers.png)
+:::
+::: {.attribution}
+[DataCamp](https://datacamp.com/)
+:::
+
+::: {#fig-career7 group="data-career"}
+![Business Analysts](images/datacamp-business-analysts.png)
+:::
+::: {.attribution}
+[DataCamp](https://datacamp.com/)
+:::
+
+::: {#fig-career8 group="data-career"}
+![Data Consumers](images/datacamp-ml-scientists.png)
+:::
+::: {.attribution}
+[DataCamp](https://datacamp.com/)
+:::
+
+::: {#fig-career9 group="data-career"}
+![Statisticians](images/datacamp-statisticians.png)
+:::
+::: {.attribution}
+[DataCamp](https://datacamp.com/)
+:::
+
+## What are the Benefits of DataCamp?
+
+1. Hands-On Practice to learn:
+    📌 Python programming
+
+    📌 R programming
+
+    📌 SQL
+
+    📌 Tableau
+
+    📌 Excel
+
+    📌 PowerBI
+
+    📌 Statistical concepts, etc
+
+🔥Earn globally recognised certifications in DA/DS/AI/ML
+
+🔥Learn more about the difference between R and Python
+
+🔥Learn and become a DataCamp certified:
+
+    💐Data Analyst
+
+    💐Data Scientist
+
+    💐AI and ML expert/developer 
+
+## DataCamp Certification Types
+
+### Technology Certification: Validate your skills in a technology
+- Data Analyst
+- Data Scientist
+- Data Engineer
+
+### Career Certification: Prove that you can perform in a role
+- SQL Associate Certification
+- Exam PL-300: Microsoft Power BI Data Analyst (in partnership with Microsoft)
+- Tableau Certified Data Analyst 
+- Azure Fundamentals-  (in partnership with Microsoft) 50% OFF AZ-900 EXAM 
+- Alteryx Fundamentals
+
+### Fundamentals Certification: Showcase knowledge of key concepts
+- AI Fundamentals
+- Data Literacy
+
+## DataCamp Career Tracks
+You can choose from any one or more of the following career tracks on DataCamp:
+
+📍Data Scientist with Python
+
+📍Data Analyst in SQL
+
+📍Data Analyst with Python
+
+📍Data Engineer
+
+📍Data Analyst in Power BI
+
+📍Python Developer
+
+📍Data Scientists with R
+
+📍Data Scientists Professional with Python
+
+📍Machine Learning Scientist with Python
+
+📍Data Analyst with R
+
+📍Machine Learning Engineer
+
+📍Data Analyst in Tableau
+
+📍Data Scientists Professional with R
+
+📍SQL Server Developer
+
+📍R Developer
+
+📍Statistician with R
+
+📍Quantitative Analyst with R
+
+📍Machine Learning Scientist with R
+
