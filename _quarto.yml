@@ -212,9 +212,9 @@ format:
 
 
     code-links: # Setup for readers to download config file
-      - text: " ⚙️ Download My YAML"
-        # icon: file-code
-        href: docs\assets\code\environment.yml
+      - text: " Download My YAML"
+        icon: file-code
+        href: environment.yml
 
     link-external-icon: true
     link-external-newwindow: true
