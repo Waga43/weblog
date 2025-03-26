@@ -214,7 +214,8 @@ format:
     code-links: # Setup for readers to download config file
       - text: " Download My YAML"
         icon: file-code
-        href: environment.yml
+        href: data\environment.yml
+        target: _blank
 
     link-external-icon: true
     link-external-newwindow: true
