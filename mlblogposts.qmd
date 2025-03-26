@@ -8,7 +8,7 @@ listing:
   type: default
   grid-item-border: true
   grid-item-align: left
-  max-description-length: 175
+  max-description-length: 250
   date-format: medium
   categories: cloud
   sort-ui: true

@@ -99,7 +99,7 @@ Terminal
 git rm -r _site
 ```
 
-::: callout-warning
+:::: callout-warning
 ## Error
 
 **There are various types of error in python code execution:**
@@ -112,12 +112,11 @@ git rm -r _site
     2.  Old
 
 -   Third
-  
 
 ## References
 
 ::: {#refs}
-
 :::
 
----
+------------------------------------------------------------------------
+::::
