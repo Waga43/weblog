@@ -1,7 +1,7 @@
 ---
 title: EduTechTainMent Data Career Guide
 subtile: ETTM Data Guide
-draft: true
+draft: false
 description: |
     This guide is provided to help those new to the field of data to get started. It not only offers basic explanation of common jargons used in the field but also provides links to valuable resources and platforms to learn, practice, and get certified as a data professional.
 ---
@@ -434,6 +434,7 @@ Steps Download the file via this LINK. Save the file in a convenient location, p
 Load the file into your Jupyter notebook by running the code below without the quotation marks.
 
 ```{python}
+#| eval: false
 %load “path_to_the_import_packages.py_file”
 ```
 

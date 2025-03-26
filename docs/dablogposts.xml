@@ -17,6 +17,591 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 25 Mar 2025 13:30:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Mar 2025 07:16:10 GMT</lastBuildDate>
+<item>
+  <title>EduTechTainMent Data Career Guide</title>
+  <link>https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="the-anatomy-of-a-data-team" class="level2">
+<h2 class="anchored" data-anchor-id="the-anatomy-of-a-data-team">The Anatomy of a Data Team</h2>
+<p><a href="https://www.datacamp.com/blog/infographic-the-anatomy-of-a-data-team-different-data-roles">DataCamp shared an info-graphic showcasing the anatomy of a data team with different data roles.</a>. You can <a href="https://images.datacamp.com/image/upload/v1657133340/Marketing/Blog/Anatomy_of_a_Data_Team_Different_Data_Roles.pdf">download the infographic to see</a>.</p>
+<p>A picture is worth than a thousand words, therefore you can equally checkout the info-graphics below to know more about the various data roles</p>
+<div id="fig-career1" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-career1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/astreya-Data-career-path.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Astreya Data Career Guide"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/astreya-Data-career-path.png" class="img-fluid figure-img"></a></p>
+<figcaption>Astreya Data Career Guide</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1
+</figcaption>
+</figure>
+</div>
+<div class="attribution">
+<p><a href="https://astreya.com/">Astreya Associates</a></p>
+</div>
+<div id="fig-career2" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-career2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/datacamp-data-analyst.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Data Analyst"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-analyst.png" class="img-fluid figure-img"></a></p>
+<figcaption>Data Analyst</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2
+</figcaption>
+</figure>
+</div>
+<div class="attribution">
+<p><a href="https://datacamp.com/">DataCamp</a></p>
+</div>
+<div id="fig-career3" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-career3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/datacamp-data-consumers.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Data Consumers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-consumers.png" class="img-fluid figure-img"></a></p>
+<figcaption>Data Consumers</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3
+</figcaption>
+</figure>
+</div>
+<div class="attribution">
+<p><a href="https://datacamp.com/">DataCamp</a></p>
+</div>
+<div id="fig-career4" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-career4-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/datacamp-data-engineers.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Data Engineers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-engineers.png" class="img-fluid figure-img"></a></p>
+<figcaption>Data Engineers</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career4-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4
+</figcaption>
+</figure>
+</div>
+<div class="attribution">
+<p><a href="https://datacamp.com/">DataCamp</a></p>
+</div>
+<div id="fig-career5" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-career5-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/datacamp-data-scientist.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Data Scientists"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-scientist.png" class="img-fluid figure-img"></a></p>
+<figcaption>Data Scientists</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career5-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5
+</figcaption>
+</figure>
+</div>
+<div class="attribution">
+<p><a href="https://datacamp.com/">DataCamp</a></p>
+</div>
+<div id="fig-career6" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-career6-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/datacamp-programmers.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="Programmers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-programmers.png" class="img-fluid figure-img"></a></p>
+<figcaption>Programmers</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career6-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6
+</figcaption>
+</figure>
+</div>
+<div class="attribution">
+<p><a href="https://datacamp.com/">DataCamp</a></p>
+</div>
+<div id="fig-career7" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-career7-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/datacamp-business-analysts.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7" title="Business Analysts"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-business-analysts.png" class="img-fluid figure-img"></a></p>
+<figcaption>Business Analysts</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career7-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7
+</figcaption>
+</figure>
+</div>
+<div class="attribution">
+<p><a href="https://datacamp.com/">DataCamp</a></p>
+</div>
+<div id="fig-career8" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-career8-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/datacamp-ml-scientists.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8" title="Data Consumers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-ml-scientists.png" class="img-fluid figure-img"></a></p>
+<figcaption>Data Consumers</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career8-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;8
+</figcaption>
+</figure>
+</div>
+<div class="attribution">
+<p><a href="https://datacamp.com/">DataCamp</a></p>
+</div>
+<div id="fig-career9" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-career9-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/datacamp-statisticians.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9" title="Statisticians"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-statisticians.png" class="img-fluid figure-img"></a></p>
+<figcaption>Statisticians</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career9-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;9
+</figcaption>
+</figure>
+</div>
+<div class="attribution">
+<p><a href="https://datacamp.com/">DataCamp</a></p>
+</div>
+</section>
+<section id="what-are-the-benefits-of-datacamp" class="level2">
+<h2 class="anchored" data-anchor-id="what-are-the-benefits-of-datacamp">What are the Benefits of DataCamp?</h2>
+<ol type="1">
+<li><p>Hands-On Practice to learn: 📌 Python programming</p>
+<p>📌 R programming</p>
+<p>📌 SQL</p>
+<p>📌 Tableau</p>
+<p>📌 Excel</p>
+<p>📌 PowerBI</p>
+<p>📌 Statistical concepts, etc</p></li>
+</ol>
+<p>🔥Earn globally recognised certifications in DA/DS/AI/ML</p>
+<p>🔥Learn more about the difference between R and Python</p>
+<p>🔥Learn and become a DataCamp certified:</p>
+<p>💐Data Analyst</p>
+<p>💐Data Scientist</p>
+<p>💐AI and ML expert/developer</p>
+</section>
+<section id="datacamp-certification-types" class="level2">
+<h2 class="anchored" data-anchor-id="datacamp-certification-types">DataCamp Certification Types</h2>
+<section id="technology-certification-validate-your-skills-in-a-technology" class="level3">
+<h3 class="anchored" data-anchor-id="technology-certification-validate-your-skills-in-a-technology">Technology Certification: Validate your skills in a technology</h3>
+<ul>
+<li>Data Analyst</li>
+<li>Data Scientist</li>
+<li>Data Engineer</li>
+</ul>
+</section>
+<section id="career-certification-prove-that-you-can-perform-in-a-role" class="level3">
+<h3 class="anchored" data-anchor-id="career-certification-prove-that-you-can-perform-in-a-role">Career Certification: Prove that you can perform in a role</h3>
+<ul>
+<li>SQL Associate Certification</li>
+<li>Exam PL-300: Microsoft Power BI Data Analyst (in partnership with Microsoft)</li>
+<li>Tableau Certified Data Analyst</li>
+<li>Azure Fundamentals- (in partnership with Microsoft) 50% OFF AZ-900 EXAM</li>
+<li>Alteryx Fundamentals</li>
+</ul>
+</section>
+<section id="fundamentals-certification-showcase-knowledge-of-key-concepts" class="level3">
+<h3 class="anchored" data-anchor-id="fundamentals-certification-showcase-knowledge-of-key-concepts">Fundamentals Certification: Showcase knowledge of key concepts</h3>
+<ul>
+<li>AI Fundamentals</li>
+<li>Data Literacy</li>
+</ul>
+</section>
+</section>
+<section id="datacamp-career-tracks" class="level2">
+<h2 class="anchored" data-anchor-id="datacamp-career-tracks">DataCamp Career Tracks</h2>
+<p>You can choose from any one or more of the following career tracks on DataCamp:</p>
+<p>📍Data Scientist with Python</p>
+<p>📍Data Analyst in SQL</p>
+<p>📍Data Analyst with Python</p>
+<p>📍Data Engineer</p>
+<p>📍Data Analyst in Power BI</p>
+<p>📍Python Developer</p>
+<p>📍Data Scientists with R</p>
+<p>📍Data Scientists Professional with Python</p>
+<p>📍Machine Learning Scientist with Python</p>
+<p>📍Data Analyst with R</p>
+<p>📍Machine Learning Engineer</p>
+<p>📍Data Analyst in Tableau</p>
+<p>📍Data Scientists Professional with R</p>
+<p>📍SQL Server Developer</p>
+<p>📍R Developer</p>
+<p>📍Statistician with R</p>
+<p>📍Quantitative Analyst with R</p>
+<p>📍Machine Learning Scientist with R</p>
+</section>
+<section id="how-to-get-datacamp-premium-subscription" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-get-datacamp-premium-subscription">How to get DataCamp Premium Subscription</h2>
+<ol type="1">
+<li><p><a href="https://www.datacamp.com/universities"><strong>DataCamp for Classrooms</strong></a><strong>:</strong> for academic staff members to apply and become DataCamp classroom administrators<strong>.</strong> Gives 6 months of premium access to all DataCamp courses and certifications. Unlimited renewals are available as well. All at no cost.</p></li>
+<li><p><a href="https://www.datacamp.com/donates/partners">DataCamp Donates Scholarships</a>: provided by different non-profit organizations. This gives successful applicants one year premium access to all the contents with certification opportunities on DataCamp.</p></li>
+<li><p><a href="https://education.github.com/pack">Github Student Development Pack</a>: Get the invaluable Github Student Development Pack with numerous benefits with just an educational institution email account like <a href="mailto:jone.doe@buk.edu.ng" class="email">jane.doe@buk.edu.ng</a>. If you are a student of a university, interested in self-development and don’t have this Github student development pack, you don’t know what you are missing. As a student of any university, you are eligible to have an institutional email address provided by the ICT directorate of your university for both staff members and students. It is provided FREE to all institutions by Google.</p></li>
+</ol>
+</section>
+<section id="how-to-get-coursera-financial-aidscholarship" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-get-coursera-financial-aidscholarship">How to Get Coursera Financial Aid/Scholarship</h2>
+<ol type="1">
+<li><a href="https://www.coursera.org/">Apply for Financial Aid</a> for any course you are interested in.</li>
+<li>Become a member of Blacks in Technology. Follow this <a href="https://www.edutechtainment.net/threads/blacks-in-technology-bit-foundation.43/">GUIDE TO GET STARTED</a></li>
+</ol>
+</section>
+<section id="how-to-get-linkedin-learning-premium-subscription" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-get-linkedin-learning-premium-subscription">How to get LinkedIn Learning Premium Subscription</h2>
+<ol type="1">
+<li><p><a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?trk=share_android_learning_path_learning&amp;shareId=rev1dUjRSLeo5I6cJR2Jcw%3D%3D">Free Course by LinkedIn and Microsoft</a></p></li>
+<li><p>Get one-year LinkedIn and LinkedIn Learning Premium Subscription by completing the INCO Academy Program (see below).</p></li>
+<li><p>Visit <a href="https://edutechtainment.net/search/72/?q=linkedin&amp;o=date">EduTechTainMent Forum</a> to learn about other ways.</p></li>
+</ol>
+</section>
+<section id="how-to-get-premium-edx-courses-and-certificates-at-no-cost" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-get-premium-edx-courses-and-certificates-at-no-cost">How to get PREMIUM EdX Courses and Certificates at NO COST</h2>
+<p>Get Free Access to Courses on EdX being offered in partnership with Verizon Skill Forward and earn certificates in high-growth fields- Artificial Intelligence, Coding, Cybersecurity, Data Analytics, Leadership, and Project Management.</p>
+<p><a href="https://www.edutechtainment.net/threads/how-to-get-premium-edx-courses-at-no-cost.55/#post-74">VISIT THIS LINK TO GET STARTED</a></p>
+</section>
+<section id="dataquest--how-to-use-jupyter-notebook" class="level2">
+<h2 class="anchored" data-anchor-id="dataquest--how-to-use-jupyter-notebook"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/https://www.dataquest.io/blog/jupyter-notebook-tutorial/">DataQuest- How to use Jupyter Notebook</a></h2>
+</section>
+<section id="datacamp--how-to-use-jupyter-notebook" class="level2">
+<h2 class="anchored" data-anchor-id="datacamp--how-to-use-jupyter-notebook"><a href="https://www.datacamp.com/tutorial/tutorial-jupyter-notebook">DataCamp- How to use Jupyter Notebook</a></h2>
+</section>
+<section id="ai-platforms" class="level2">
+<h2 class="anchored" data-anchor-id="ai-platforms"><a href="https://www.anaconda.com/definitive-guide-to-ai-platforms">AI Platforms</a></h2>
+</section>
+<section id="learn-markdown" class="level2">
+<h2 class="anchored" data-anchor-id="learn-markdown">Learn Markdown</h2>
+<ol type="1">
+<li><a href="https://www.markdowntutorial.com/">Markdown Tutorial</a></li>
+<li><a href="https://commonmark.org/help/tutorial/">Commonmark</a></li>
+<li><a href="https://daringfireball.net/projects/markdown/syntax">Daring Fireball: Markdown Syntax Documentation</a></li>
+<li><a href="https://www.markdowntutorial.com/">Markdown Tutorial</a></li>
+<li><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes">Basic writing and formatting syntax - GitHub Docs</a></li>
+</ol>
+</section>
+<section id="arewa-data-science-scholarship" class="level2">
+<h2 class="anchored" data-anchor-id="arewa-data-science-scholarship">Arewa Data Science Scholarship</h2>
+<p><a href="https://arewadatascience.github.io">Arewa Data Science</a> offers a free Data Science Fellowship with other perks such as mentorship, internships, internet data subscriptions, DataCamp Premium subscription and lots more.</p>
+</section>
+<section id="freecodecamp-resources" class="level2">
+<h2 class="anchored" data-anchor-id="freecodecamp-resources">FreeCodeCamp Resources</h2>
+<ol type="1">
+<li><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific Computing with Python</a></li>
+<li><a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data Analysis with Python</a></li>
+<li><a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine Learning with Python</a></li>
+<li><a href="https://www.freecodecamp.org/learn/relational-database/">Relational Databases</a></li>
+</ol>
+</section>
+<section id="datacamp-certifications-study-guide" class="level2">
+<h2 class="anchored" data-anchor-id="datacamp-certifications-study-guide">DataCamp Certifications Study Guide</h2>
+<p>DataCamp[^1] suggests the following timelines for the career tracks: [^1]: https://www.datacamp.com/blog/data-analyst-vs-data-scientist-a-comparative-guide</p>
+<ol type="1">
+<li>Associate Data Analyst with Python (<strong>9 Courses: 36 hours, 2 skill assessments, and 5 projects</strong>)</li>
+<li>Data Analyst in PowerBI (<strong>17 courses: 48 hours</strong>)</li>
+<li>Data Analyst in Tableau (<strong>9 courses: 42 hours</strong>)</li>
+<li>Data Analyst with R (<strong>36 Courses: 36 hours, 1 skill assessment, 2 projects</strong>)</li>
+<li>Associate Data Analyst with SQL (<strong>11 Courses: 39 hours</strong>)</li>
+<li>Associate Data Scientist with Python (23 Course: 90 hours, 3 skill assessments, 4 projects)</li>
+<li>Associate Data Scientist with R (88 Courses: 88 hours, 4 skill assessments, 4 projects)</li>
+<li>Data Scientist in R (8 courses: 27 hours, 2 projects)</li>
+<li>Data Scientist in Python (8 courses: 23 hours, 2 projects)</li>
+<li>Associate Data Engineer in SQL (9 courses: 30 hours, 2 projects)</li>
+<li>Data Engineer in Python (12 courses: 57 hours, 3 projects)</li>
+<li>Professional Data Engineer in Python (10 courses: 7 chapters, 2 projects)</li>
+<li>Machine Learning Scientist with Python (21 courses: 85 hours, 1 skill assessment, 3 projects)</li>
+<li>Machine Learning Scientist with R (16 courses: 65 hours, 1 skill assessment, 1 projects)</li>
+<li>Machine Learning Engineer (12 courses: 44 hours, 2 projects)</li>
+<li>Python Developer (5 courses: 3 chapters, 1 project)</li>
+<li>Associate Python Developer (8 courses: 2 chapters, 2 project)</li>
+<li>SQL Server Developer (10 courses: 41 hours)</li>
+<li>R Developer (13 courses: 52 hours, 2 skill assessment, 1 projects)</li>
+<li>Statistician with R (13 courses: 52 hours, 1 project)</li>
+</ol>
+</section>
+<section id="structure-of-the-datacamp-certifications" class="level2">
+<h2 class="anchored" data-anchor-id="structure-of-the-datacamp-certifications">Structure of the DataCamp Certifications</h2>
+<p>DataCamp offers the following tracks for learners to choose from so they get the best custom-based learning experience:</p>
+<ol type="1">
+<li><p><a href="https://app.datacamp.com/learn/custom-tracks">Organization Track</a>: A collection of well-curated courses by yourscholarshipp organization or DataCamp, to guide your learning and help you gain new skills.</p></li>
+<li><p><a href="https://app.datacamp.com/learn/skill-tracks">Skill Track</a>: Acquire new skills fast in courses that combine short expert videos with immediate hands-on exercises. This is based on particular skill sets learners wish to acquire.</p></li>
+<li><p><a href="https://app.datacamp.com/learn/career-tracks">Career Track</a> consists of hand-picked courses by industry experts. You will learn all you need to start a new career in the data science field. This is based on the career options of the learners.</p></li>
+</ol>
+</section>
+<section id="learning-platforms-on-datacamp" class="level2">
+<h2 class="anchored" data-anchor-id="learning-platforms-on-datacamp">Learning Platforms on Datacamp</h2>
+<ul>
+<li><a href="https://app.datacamp.com/learn/courses">Interactive Courses offered by DataCamp</a>: Combine short videos with hands-on exercises.</li>
+<li><a href="https://app.datacamp.com/learn/practice">Practice Exercises</a> are also offered by DataCamp. Targeted at those who wish to Keep their skills sharp with quick daily challenges on desktop or Mobile app. You earn XP for every practice round.</li>
+<li><a href="https://app.datacamp.com/learn/assessments">DataCamp Signal™ Assessments</a>: To help gauge your skill level before starting any of the career tracks. How do your skills stack up? Discover your skill level in just 10 minutes to get personalized learning recommendations.</li>
+</ul>
+</section>
+<section id="practice-platforms-on-datacamp" class="level2">
+<h2 class="anchored" data-anchor-id="practice-platforms-on-datacamp">Practice Platforms on DataCamp</h2>
+<ol type="1">
+<li><a href="https://app.datacamp.com/learn/projects">DataCamp Projects</a>: Apply your skills using tools like data Notebooks and complete a data analysis from start to finish.</li>
+<li><a href="https://app.datacamp.com/learn/case-studies">DataCamp Case Studies</a>: These hands-on scenarios give you a chance to navigate real-world problems across diverse industries.</li>
+<li><a href="https://app.datacamp.com/learn/code-alongs">DataCamp Code Alongs</a>: During which, experienced DataCamp instructors will guide you through a vast selection of real world problems from start to finish.</li>
+<li><a href="https://app.datacamp.com/learn/competitions">DataCamp Competitions</a>: Feeling a little bit adventurous? DataCamp competitions give you an opportunity to showcase your skillsets and even get to earn some cash while doing what you love!!!</li>
+<li><a href="https://app.datacamp.com/learn/tutorials">DataCamp Tutorials</a>: Develop your data science skills with tutorials. It covers everything from data visualizations in Tableau to version control in Git.</li>
+<li><a href="https://app.datacamp.com/learn/popular/ai">Popular Topics</a>: Get ahead with the popular topics on DataCamp. Everything you need for each topic has been put in one place.</li>
+</ol>
+</section>
+<section id="datacamp-certifications" class="level2">
+<h2 class="anchored" data-anchor-id="datacamp-certifications">DataCamp Certifications</h2>
+<p>Take the next step in your career and prove your competencies with DataCamp recognized career, technology, and fundamentals certifications (shown above). If you’re not quite ready for that next step, you can also prepare yourself with some tailored learning plans.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+DataCamp Certifications
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>DataCamp certifications are developed in partnership with industry experts. They can help expand career opportunities, increase earning potential, and demonstrate expertise.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Duration
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>You’ll have 30 days or 2 attempts to pass and get certified.</p>
+</div>
+</div>
+<p>DataCamp offers both Associate and Professional certifications, designed to reflect entry-level and more experienced skill levels, respectively. The main difference between the two is the difficulty of the questions and the final exam requirements.</p>
+<ul>
+<li><p>**Associate certification**: Designed for those starting out, and aligns with entry-level job expectations. It consists of a series of DataCamp assessments.</p></li>
+<li><p><strong>Professional certification:</strong> Designed for those with at least two years of experience. It requires a written and verbal presentation for the final exam.</p></li>
+<li><p><strong>DataCamp Learning Plans towards Certifications</strong>: DataCamp allows you to build a plan from scratch or take assessments to target lessons specifically for you.</p></li>
+</ul>
+</section>
+<section id="register-for-a-datacamp-certification" class="level2">
+<h2 class="anchored" data-anchor-id="register-for-a-datacamp-certification"><a href="https://app.datacamp.com/certification/certifications">Register for a DataCamp Certification</a></h2>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Number of Attempts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Once you begin a certification you will have 30 days or 2 attempts to complete all requirements, whichever occurs first. If you’re unable to complete the requirements within 30 days from starting, your progress will reset.</p>
+</div>
+</div>
+</section>
+<section id="interview-prep" class="level2">
+<h2 class="anchored" data-anchor-id="interview-prep"><a href="https://app.datacamp.com/certification/job-interview-simulation/welcome">Interview Prep</a></h2>
+<p>After getting certified, make use of the DataCamp AI interview prep tool to get a feel of how real-life job interviews can be for a data role</p>
+</section>
+<section id="general-fundamentals-for-data-newbies" class="level2">
+<h2 class="anchored" data-anchor-id="general-fundamentals-for-data-newbies">General Fundamentals for Data Newbies</h2>
+<ol type="1">
+<li><a href="https://app.datacamp.com/learn/courses/introduction-to-data">Introduction to Data Course</a></li>
+<li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-literacy">Introduction to Data Literacy Course</a></li>
+<li><a href="https://app.datacamp.com/learn/courses/data-communication-concepts">Data Communication Concepts Course</a></li>
+<li><a href="https://app.datacamp.com/learn/courses/communicating-data-insights">Communicating Data Insights Course</a></li>
+<li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-ethics">Introduction to Data Ethics</a></li>
+</ol>
+</section>
+<section id="scikit-learn-tutorial-by-inria" class="level2">
+<h2 class="anchored" data-anchor-id="scikit-learn-tutorial-by-inria">Scikit Learn Tutorial by Inria</h2>
+<p><a href="https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/"><strong>Scikit-Learn Machine Learning with Python</strong></a>: This is one of the best platforms for hands-on learning about machine learning with cikit-Learn.</p>
+<p>Learn, take interactive quizzes, and use a hands-on interactive course prepared by the Sci-kit learn developers.</p>
+<p>Earn certificates to validate your knowledge and show your proficiency to prospective employers.</p>
+</section>
+<section id="github-resources" class="level2">
+<h2 class="anchored" data-anchor-id="github-resources">Github Resources</h2>
+<ol type="1">
+<li><a href="https://downgit.github.io/#/home">Download Github Repository files and folders using a Web app.</a></li>
+<li><a href="https://learn.microsoft.com/en-gb/training/paths/python-language/?WT.mc_id=academic-105485-koreyst">Learn Python with Microsoft</a></li>
+<li><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine Learning Tutorials</a></li>
+<li><a href="https://github.com/microsoft/ML-For-Beginners">Microsoft Machine Learning for Beginners Generative AI for Beginners</a></li>
+<li><a href="https://github.com/microsoft/Data-Science-For-Beginners">Data Science for Beginners</a></li>
+<li><a href="https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/README-details.md#data">Awesome AI and ML</a></li>
+<li><a href="https://github.com/academic/awesome-datascience">Awesome Data Science</a></li>
+<li><a href="https://github.com/microsoft/Data-Science-For-Beginners">Microsoft Data Science for Beginners</a></li>
+<li><a href="https://github.com/virgili0/Virgilio">Virgili0 Data Science E-Learning</a></li>
+<li><a href="https://github.com/jakevdp/PythonDataScienceHandbook">Python Data Science Handbook</a></li>
+<li><a href="https://sebastianraschka.com/teaching/stat479-fs2019/">Sebastian Raschka Machine Learning Course</a></li>
+</ol>
+</section>
+<section id="kaggle-resources" class="level2">
+<h2 class="anchored" data-anchor-id="kaggle-resources">Kaggle Resources</h2>
+<p><a href="https://www.kaggle.com/learn">Learn, Compete and Practice your skills on Kaggle</a></p>
+</section>
+<section id="data-scientists-network-dsn-nigeria" class="level2">
+<h2 class="anchored" data-anchor-id="data-scientists-network-dsn-nigeria">Data Scientists Network (DSN) Nigeria</h2>
+<p><a href="https://www.datasciencenigeria.org/">Join the DSN</a>. Mentorship, Internships, and Trainings are available.</p>
+</section>
+<section id="udacity" class="level2">
+<h2 class="anchored" data-anchor-id="udacity">Udacity</h2>
+<ul>
+<li><a href="https://emc.udacity.com/c/alg/catalog/q2qh-pph">Scholarship Programs</a></li>
+<li><a href="https://www.udacity.com/school/artificial-intelligence">AI Courses</a></li>
+<li><a href="https://www.udacity.com/school/data-science">Data Science Courses</a></li>
+</ul>
+</section>
+<section id="data-science" class="level2">
+<h2 class="anchored" data-anchor-id="data-science"><a href="https://365datascience.com">365 Data Science</a></h2>
+<p><a href="https://learn.365datascience.com/my-learning-path/">Courses and Learning Paths</a></p>
+<p>This platform is one of the very best in what they do. I love their way of teaching. If you don’t have money to register on the site, be on the look out for their monthly free access to all premium contents. You can subcribe to my ETTM blog so you won’t miss out when the offer is out.</p>
+</section>
+<section id="dataquest" class="level2">
+<h2 class="anchored" data-anchor-id="dataquest">DataQuest</h2>
+<p><a href="https://www.dataquest.io/data-science-courses/career-paths/">Career Paths</a></p>
+</section>
+<section id="the-university-of-helsinki" class="level2">
+<h2 class="anchored" data-anchor-id="the-university-of-helsinki">The University of Helsinki</h2>
+<p><a href="https://programming-25.mooc.fi/part-1">Python Programming MOOC 2024</a></p>
+</section>
+<section id="hamoye-internships" class="level2">
+<h2 class="anchored" data-anchor-id="hamoye-internships">Hamoye Internships</h2>
+<p><a href="https://www.hamoye.com/#programs">Offers a remote internships</a> to get experience and develop a portfolio of work to impress employers! Offers internships in Generative AI, Data Science, Data Engineering, Data Story Telling.</p>
+</section>
+<section id="zindi-africa" class="level2">
+<h2 class="anchored" data-anchor-id="zindi-africa">Zindi Africa</h2>
+<p><a href="https://zindi.africa/">For Learning and Participating in Data Competitions</a></p>
+</section>
+<section id="aiplanet-formerly-dhpi" class="level2">
+<h2 class="anchored" data-anchor-id="aiplanet-formerly-dhpi">AiPlanet (Formerly DHPi)</h2>
+<ul>
+<li><p><a href="https://aiplanet.com/dashboard/courses/in-progress">Courses</a></p></li>
+<li><p><a href="https://aiplanet.com/dashboard/bootcamps/active">Bootcamps</a></p></li>
+</ul>
+</section>
+<section id="scaler-topics" class="level2">
+<h2 class="anchored" data-anchor-id="scaler-topics">Scaler Topics</h2>
+<p><a href="https://www.scaler.com/topics/courses/">Get started here</a></p>
+</section>
+<section id="onecampus-academy" class="level2">
+<h2 class="anchored" data-anchor-id="onecampus-academy">OneCampus Academy</h2>
+<p>~<a href="https://onecampusacademy.com/maintenance">OneCampus Academy</a> offers programs on Data Analytics, Data Science and Machine Learning~</p>
+</section>
+<section id="inco-academy" class="level2">
+<h2 class="anchored" data-anchor-id="inco-academy">INCO Academy</h2>
+<p>All graduates of the <a href="https://www.greenskills.inco-group.co/">INCO Green Digital Skills Program (powered by INCO Academy, Microsoft, and LinkedIn)</a> will receive free <strong>LinkedIn Premium</strong> access. This allows you to leverage LinkedIn Premium to connect with and network with many professionals. You also get one year premium access to all LinkedIn Learning courses and earn certificates. Apply for the <a href="https://inco-group.typeform.com/to/cLEu71R3?typeform-source=www.greenskills.inco-group.co">INCO Academy Green Digital Skills scholarship program using this link</a>.</p>
+</section>
+<section id="freecodecamp-courses" class="level2">
+<h2 class="anchored" data-anchor-id="freecodecamp-courses">FreeCodeCamp Courses</h2>
+<ul>
+<li><p><a href="https://www.freecodecamp.org/news/learn-data-analysis-with-python-course/">Data Analysis with Python</a></p></li>
+<li><p><a href="https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/">Data Science with Python</a></p></li>
+</ul>
+</section>
+<section id="practice-datasets" class="level2">
+<h2 class="anchored" data-anchor-id="practice-datasets">Practice Datasets</h2>
+<ol type="1">
+<li><a href="https://www.datacamp.com/datalab/datasets">DataCamp DataLab Datasets</a></li>
+<li><a href="https://archive.ics.uci.edu/datasets">UCI Machine Learning Repository</a></li>
+<li><a href="https://datasetsearch.research.google.com/">Google Dataset Search</a></li>
+<li><a href="https://www.kaggle.com/datasets">Kaggle Datasets</a> and <a href="https://www.kaggle.com/datasets/kkhandekar/all-datasets-for-practicing-ml">ML Datasets</a></li>
+<li><a href="http://Data.gov">Data.gov</a></li>
+<li><a href="https://opendata.cern.ch/">CERN Open Data Portal</a></li>
+<li><a href="https://apps.who.int/gho/data/node.home">Global Health Observatory Data Repository</a></li>
+<li><a href="https://www.earthdata.nasa.gov/">Earth Data</a></li>
+<li><a href="https://www.bfi.org.uk/industry-data-insights">BFI film industry statistics</a></li>
+<li><a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">NYC Taxi Trip Data</a></li>
+<li><a href="https://seaborn.pydata.org/generated/seaborn.load_dataset.html">Seaborn</a> and <a href="https://scikit-learn.org/stable/datasets.html">Scikit-Learn</a> Libraries come bundled with Practice Datasets</li>
+<li><a href="https://learn.microsoft.com/en-us/azure/open-datasets/dataset-catalog">Microsoft Azure Open Datasets</a></li>
+<li><a href="https://github.com/awesomedata/awesome-public-datasets?source=post_page-----bb6d0dc3378b--------------------------------">Github Awesome Public Datasets</a></li>
+<li><a href="https://www.openml.org/search?type=data&amp;sort=runs&amp;status=active">OpenML Datasets</a></li>
+<li><a href="https://academictorrents.com/">Academic Torrents</a></li>
+</ol>
+</section>
+<section id="other-important-resources" class="level2">
+<h2 class="anchored" data-anchor-id="other-important-resources">Other Important Resources</h2>
+<p><a href="https://www.data-to-viz.com/#scatter">From Data to Viz</a>: learn how best to choose the right visualizations for your data and avoid the common pitfalls in creating a visualization.</p>
+</section>
+<section id="import-important-libraries" class="level2">
+<h2 class="anchored" data-anchor-id="import-important-libraries">Import Important Libraries</h2>
+<p>To get started on this journey, here is a skeleton of all the important Python libraries/modules you need to import. I have created this code to prevent having to type out the same codes from scratch for every project.</p>
+<p>Feel free to modify and use it as you wish. I will also be updating the code regularly, whenever I add contents to this EduTechTainMent Data Career Resources and Guide.</p>
+<p>Steps Download the file via this LINK. Save the file in a convenient location, preferably a cloud storage directory you can access remotely on any device you are connected to. I would strongly recommend <a href="https://k00.fr/fywszbgp">Koofr</a>, which gives you 5 to 10Gb storage space and allows you to connect and sync your files seamlessly across multiple devices- desktop PC, laptops, android mobile phones, as well as connect and sync files from other popular cloud storages such as Google Drive, OneDrive, and DropBox. It aslo supprots WebDav. I use Koofr seamlessly across about 3 laptops, 2 desktop PCs and 1 android smartphone. I can access all my files from all these devices from anywhere in the world, and I don’t get restricted by location.</p>
+<p>Load the file into your Jupyter notebook by running the code below without the quotation marks.</p>
+<div id="2d1f6eb2" class="cell" data-execution_count="1">
+<details open="" class="code-fold">
+<summary>Show the code</summary>
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">%</span>load “path_to_the_import_packages.py_file”</span></code></pre></div>
+</details>
+</div>
+<p>For example, this is the path to my file on my PC: <code>load C:\Users\Admin\Koofr\import_packages.py</code></p>
+<p>Finally, run the cell on your Jupyter notebook.</p>
+</section>
+<section id="do-i-learn-if-cant-afford-a-decent-specs-laptop-or-dont-have-a-personal-laptop-or-desktop-computer" class="level2">
+<h2 class="anchored" data-anchor-id="do-i-learn-if-cant-afford-a-decent-specs-laptop-or-dont-have-a-personal-laptop-or-desktop-computer">do I Learn if Can’t Afford a Decent Specs Laptop or Don’t have a Personal Laptop or Desktop Computer</h2>
+<p>Are you constrained by lack of a decent specification laptop or even desktop computer system? Don’t sweat !!! EduTechTainMent has got you covered. You can utilize the following methods to have access to a platform to learn and pratice your Data skills:</p>
+<ol type="1">
+<li><a href="https://www.datacamp.com/datalab/w/717f06a7-567c-4956-b2d7-7856a3e50f26/edit">DataLab by DataCamp</a></li>
+<li><a href="https://deepnote.com/explore">Deepnote</a>: The <a href="https://deepnote.com/docs/edu-verification">Education plan</a> gives you all the benefits of the team Plan at no cost. You can also get the free version if you don’t have an educational institution email account. Use your mobile phone (read how to do that below).</li>
+<li><a href="https://colab.research.google.com/">Google Colab</a></li>
+<li>Make use of your mobile phone as a last resort. Although its not the best, user-experience wise, it at least enables you to get started practicing without the need to procrastinate due to unavailability of a laptop computer. I will be sharing a guide on how to use you smartphone for this purpose soon. Just stay tuned.</li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+EduTechTainMent Motto
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<blockquote class="blockquote">
+<p><strong>“Over Every Possessor of Knowledge, There is (Some) One (Else) More Knowledgeable”</strong></p>
+</blockquote>
+</div>
+</div>
+
+
+</section>
+
+<center>
+<p>
+© 2025, Abdulwasiu B. Popoola. Some rights reserved. <br>This website is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License</a>
+</p>
+</center><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <guid>https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/</guid>
+  <pubDate>Wed, 26 Mar 2025 07:16:10 GMT</pubDate>
+</item>
 </channel>
 </rss>
