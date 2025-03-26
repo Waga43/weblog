@@ -8,7 +8,7 @@
 <title>ETTM Weblog</title>
 <link>https://waga43.github.io/weblog/mlblogposts.html</link>
 <atom:link href="https://waga43.github.io/weblog/mlblogposts.xml" rel="self" type="application/rss+xml"/>
-<description>EduTechTainMent | ETTM Weblog</description>
+<description>EduTechTainMent | ETTM Data Weblog</description>
 <image>
 <url>https://waga43.github.io/weblog/assets/profilepicx.png</url>
 <title>ETTM Weblog</title>
@@ -17,6 +17,6 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Wed, 26 Mar 2025 09:06:15 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Mar 2025 09:29:37 GMT</lastBuildDate>
 </channel>
 </rss>

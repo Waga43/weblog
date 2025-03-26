@@ -7,7 +7,7 @@ jupyter: python3
 # Website Options
 website:
   title: "ETTM Weblog"
-  description: "EduTechTainMent | ETTM Weblog"
+  description: "EduTechTainMent | ETTM Data Weblog"
   image: assets\profilepicx.png
   site-url: "https://waga43.github.io/weblog/"
   google-analytics: "G-58YFBY5HDN"
@@ -165,7 +165,17 @@ website:
             # icon: graduation-cap
             href: https://lms.edutechtainment.net
             target: _blank
+      - icon: rss
+        href: index.xml
+        target: _blank
 
+      - icon: twitter
+        href: https://x.com/@edutech_tm
+        target: _blank
+
+      - icon: github
+        href: https://github.com/waga43
+        target: _blank
 format:
   html:
     theme:

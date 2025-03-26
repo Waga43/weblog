@@ -24,7 +24,6 @@ about:
       href: mailto:edutech_tm@gmail.com
       icon: envelope
       target: _blank
-      
 
     - text: YouTube
       href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
