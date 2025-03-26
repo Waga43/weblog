@@ -8,15 +8,34 @@ description: |
 
 ## The Anatomy of a Data Team
 
-[DataCamp shared an info-graphic showcasing the anatomy of a data team with different data roles.](https://www.datacamp.com/blog/infographic-the-anatomy-of-a-data-team-different-data-roles). You can [download the infographic to see](https://images.datacamp.com/image/upload/v1657133340/Marketing/Blog/Anatomy_of_a_Data_Team_Different_Data_Roles.pdf).
+DataCamp shared an info-graphic showcasing the anatomy of a data team with different data roles[^1]. You can [download the infographic to see](https://images.datacamp.com/image/upload/v1657133340/Marketing/Blog/Anatomy_of_a_Data_Team_Different_Data_Roles.pdf).
 
 A picture is worth than a thousand words, therefore you can equally checkout the info-graphics below to know more about the various data roles
 
-::: {#fig-career1 group="data-career"}
+
+::: {#fig-career1 layout-nrow="5" group="data-career"}
 ![Astreya Data Career Guide](images/astreya-Data-career-path.png)
+
+![Data Analyst](images/datacamp-data-analyst.png)
+
+![Data Consumers](images/datacamp-data-consumers.png)
+
+![Data Engineers](images/datacamp-data-engineers.png)
+
+![Data Scientists](images/datacamp-data-scientist.png)
+
+![Programmers](images/datacamp-programmers.png)
+
+![Business Analysts](images/datacamp-business-analysts.png)
+
+![Data Consumers](images/datacamp-ml-scientists.png)
+
+![Statisticians](images/datacamp-statisticians.png)
+
+
 :::
 
-::: attribution
+<!-- ::: attribution
 [Astreya Associates](https://astreya.com/)
 :::
 
@@ -82,35 +101,56 @@ A picture is worth than a thousand words, therefore you can equally checkout the
 
 ::: attribution
 [DataCamp](https://datacamp.com/)
-:::
+::: -->
+
+[^1]: [DataCamp Data Roles Infographic](https://www.datacamp.com/blog/infographic-the-anatomy-of-a-data-team-different-data-roles)
+
+## [Data Professionals Roadmap.sh](http://roadmap.sh)
+
+1.  [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+
+2.  [Data Analyst Roadmap](https://roadmap.sh/data-analyst)
 
 ## What are the Benefits of DataCamp?
 
-1.  Hands-On Practice to learn: 📌 Python programming
+Hands-On Practice to learn:
 
-    📌 R programming
+::: {layout-ncol="2"}
+## A
+- Python programming
 
-    📌 SQL
+- R programming
 
-    📌 Tableau
+- SQL
 
-    📌 Excel
+- Tableau
 
-    📌 PowerBI
+## B
 
-    📌 Statistical concepts, etc
+- Excel
 
-🔥Earn globally recognised certifications in DA/DS/AI/ML
+- PowerBI
 
-🔥Learn more about the difference between R and Python
+- Statistical concepts
 
-🔥Learn and become a DataCamp certified:
+- Etc
 
-💐Data Analyst
+:::
 
-💐Data Scientist
 
-💐AI and ML expert/developer
+---
+
+Earn globally recognized certifications in DA/DS/AI/ML
+
+Learn more about the difference between R and Python
+
+Learn and become a DataCamp certified:
+
+- Data Analyst
+
+- Data Scientist
+
+- AI and ML expert/developer
 
 ## DataCamp Certification Types
 
@@ -137,41 +177,50 @@ A picture is worth than a thousand words, therefore you can equally checkout the
 
 You can choose from any one or more of the following career tracks on DataCamp:
 
-📍Data Scientist with Python
+::: {layout-ncol="3"}
+## A
 
-📍Data Analyst in SQL
+- Data Scientist with Python
 
-📍Data Analyst with Python
+- Data Analyst in SQL
 
-📍Data Engineer
+- Data Analyst with Python
 
-📍Data Analyst in Power BI
+- Data Engineer
 
-📍Python Developer
+- Data Analyst in Power BI
 
-📍Data Scientists with R
+- Python Developer
 
-📍Data Scientists Professional with Python
+## B
 
-📍Machine Learning Scientist with Python
+- Data Scientists with R
 
-📍Data Analyst with R
+- Data Scientists Professional with Python
 
-📍Machine Learning Engineer
+- Machine Learning Scientist with Python
 
-📍Data Analyst in Tableau
+- Data Analyst with R
 
-📍Data Scientists Professional with R
+- Machine Learning Engineer
 
-📍SQL Server Developer
+- Data Analyst in Tableau
 
-📍R Developer
+## C
 
-📍Statistician with R
+- Data Scientists Professional with R
 
-📍Quantitative Analyst with R
+- SQL Server Developer
 
-📍Machine Learning Scientist with R
+- R Developer
+
+- Statistician with R
+
+- Quantitative Analyst with R
+
+- Machine Learning Scientist with R
+
+:::
 
 ## How to get DataCamp Premium Subscription
 
@@ -208,11 +257,19 @@ Get Free Access to Courses on EdX being offered in partnership with Verizon Skil
 
 ## Learn Markdown
 
+Markdown is the `"language"` in which those in the IT world write and communicate. It is a markup language and not a programming language per se. Learning markdown syntax is a very invaluable skill in this field. Even if you don't have any plans on having any data skills, trust me when I tell you it is in your best interest to learn the markdown syntax. If you like the design of this website, then I am happy to let you know that this entire blogpost with its formatting was written in markdown. It can be learnt from between 2 days to about a week. Below are some resources to help you get started using Markdown. Refer to the guide by [Markdown Guide](https://www.markdownguide.org) website for general and detailed information about what you can use markdown for.
+
 1.  [Markdown Tutorial](https://www.markdowntutorial.com/)
 2.  [Commonmark](https://commonmark.org/help/tutorial/)
 3.  [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
-4.  [Markdown Tutorial](https://www.markdowntutorial.com/)
+4.  [Markdown Guide](https://www.markdownguide.org/basic-syntax)
 5.  [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes)
+6.  [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics)
+7.  [Codecademy Markdown Tutorial](https://resources/docs/markdown)
+8.  [Zapier Markdown Guide for Beginners](https://zapier.com/blog/beginner-ultimate-guide-markdown/#apps)
+
+
+There are numerous tools [^3] you can use to write markdown text, both offline, online and even on mobile.
 
 ## Arewa Data Science Scholarship
 
@@ -227,28 +284,32 @@ Get Free Access to Courses on EdX being offered in partnership with Verizon Skil
 
 ## DataCamp Certifications Study Guide
 
-DataCamp\[\^1\] suggests the following timelines for the career tracks: \[\^1\]: https://www.datacamp.com/blog/data-analyst-vs-data-scientist-a-comparative-guide
+[^3]: [Markdown Tools](https://www.markdownguide.org/tools)
+
+DataCamp [^2] suggests the following timelines for the career tracks: 
 
 1.  Associate Data Analyst with Python (**9 Courses: 36 hours, 2 skill assessments, and 5 projects**)
 2.  Data Analyst in PowerBI (**17 courses: 48 hours**)
 3.  Data Analyst in Tableau (**9 courses: 42 hours**)
 4.  Data Analyst with R (**36 Courses: 36 hours, 1 skill assessment, 2 projects**)
 5.  Associate Data Analyst with SQL (**11 Courses: 39 hours**)
-6.  Associate Data Scientist with Python (23 Course: 90 hours, 3 skill assessments, 4 projects)
-7.  Associate Data Scientist with R (88 Courses: 88 hours, 4 skill assessments, 4 projects)
-8.  Data Scientist in R (8 courses: 27 hours, 2 projects)
-9.  Data Scientist in Python (8 courses: 23 hours, 2 projects)
-10. Associate Data Engineer in SQL (9 courses: 30 hours, 2 projects)
-11. Data Engineer in Python (12 courses: 57 hours, 3 projects)
-12. Professional Data Engineer in Python (10 courses: 7 chapters, 2 projects)
-13. Machine Learning Scientist with Python (21 courses: 85 hours, 1 skill assessment, 3 projects)
-14. Machine Learning Scientist with R (16 courses: 65 hours, 1 skill assessment, 1 projects)
-15. Machine Learning Engineer (12 courses: 44 hours, 2 projects)
-16. Python Developer (5 courses: 3 chapters, 1 project)
-17. Associate Python Developer (8 courses: 2 chapters, 2 project)
-18. SQL Server Developer (10 courses: 41 hours)
-19. R Developer (13 courses: 52 hours, 2 skill assessment, 1 projects)
-20. Statistician with R (13 courses: 52 hours, 1 project)
+6.  Associate Data Scientist with Python (**23 Course: 90 hours, 3 skill assessments, 4 projects**)
+7.  Associate Data Scientist with R (**88 Courses: 88 hours, 4 skill assessments, 4 projects**)
+8.  Data Scientist in R (**8 courses: 27 hours, 2 projects**)
+9.  Data Scientist in Python (**8 courses: 23 hours, 2 projects**)
+10. Associate Data Engineer in SQL (**9 courses: 30 hours, 2 projects**)
+11. Data Engineer in Python (**12 courses: 57 hours, 3 projects**)
+12. Professional Data Engineer in Python (**10 courses: 7 chapters, 2 projects**)
+13. Machine Learning Scientist with Python (**21 courses: 85 hours, 1 skill assessment, 3 projects**)
+14. Machine Learning Scientist with R (**16 courses: 65 hours, 1 skill assessment, 1 projects**)
+15. Machine Learning Engineer (**12 courses: 44 hours, 2 projects**)
+16. Python Developer (**5 courses: 3 chapters, 1 project**)
+17. Associate Python Developer (**8 courses: 2 chapters, 2 project**)
+18. SQL Server Developer (**10 courses: 41 hours**)
+19. R Developer (**13 courses: 52 hours, 2 skill assessment, 1 projects**)
+20. Statistician with R (**13 courses: 52 hours, 1 project**)
+
+[^2]: [Data Data Professional Certifications Timelines](https://www.datacamp.com/blog/data-analyst-vs-data-scientist-a-comparative-guide)
 
 ## Structure of the DataCamp Certifications
 
@@ -442,7 +503,7 @@ For example, this is the path to my file on my PC: `load C:\Users\Admin\Koofr\im
 
 Finally, run the cell on your Jupyter notebook.
 
-## do I Learn if Can’t Afford a Decent Specs Laptop or Don’t have a Personal Laptop or Desktop Computer
+## How do I Learn if Can’t Afford a Decent Specs Laptop or Don’t have a Personal Laptop or Desktop Computer?
 
 Are you constrained by lack of a decent specification laptop or even desktop computer system? Don’t sweat !!! EduTechTainMent has got you covered. You can utilize the following methods to have access to a platform to learn and pratice your Data skills:
 
@@ -456,3 +517,4 @@ Are you constrained by lack of a decent specification laptop or even desktop com
 
 > **"Over Every Possessor of Knowledge, There is (Some) One (Else) More Knowledgeable"**
 :::
+

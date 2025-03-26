@@ -251,6 +251,10 @@ lightbox:
   desc-position: bottom
   loop: true
 
+# Resources used site-wide
+resources:
+  - "data/*.csv"
+
 
 # page-footer:
 #     background: light

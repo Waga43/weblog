@@ -1,7 +1,8 @@
 # options specified here will apply to all posts in this folder
 project:
   type: manuscript
-
+resources: 
+  - "data/*.csv"
 execute:
   freeze: auto
 
