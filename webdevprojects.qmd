@@ -42,7 +42,7 @@ Check out the [YCA Jigawa Forum](https://ycajigawa.org.ng)
 ## 3️⃣ The Nigeria Medical Association (NMA) Jigawa Forum Website
 :::: columns
 ::: {.column width="55%"}
-![Nigeria Medical Association Jigawa state chapter Website Forum](assets\ettmpage.png)
+![Nigeria Medical Association Jigawa state chapter Website Forum](assets\nmajigawapage.png)
 :::
 
 ::: {.column width="5%"}
