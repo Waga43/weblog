@@ -1,6 +1,8 @@
 ---
 title: EduTechTainMent Data Career Guide
 subtile: ETTM Data Guide
+date: 10/04/2025
+date-format: long
 draft: false
 description: |
     This guide is provided to help those new to the field of data to get started. It not only offers basic explanation of common jargons used in the field but also provides links to valuable resources and platforms to learn, practice, and get certified as a data professional.
