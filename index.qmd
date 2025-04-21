@@ -147,7 +147,7 @@ Let's connect 🤝 on [LinkedIn](https://linkedin.com/in/abdulwasiu)
 
 Check out 👀 my [GitHub Profile](https://github.com/waga43)
 
-## {{< bi youtube >}} YouTube
+## {{< bi youtube color="red">}} YouTube
 
 Watch 👁 educational and informative posts 🎞 on my [EduTechTainment YouTube Channel](https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw)
 
@@ -163,15 +163,15 @@ Follow EduTechTainMent 🚶🏾‍♂️‍➡️ on [X (formerly Twitter)](http
 ## Public Academic Profiles
 
 ::: panel-tabset
-## {{< ai orcid >}} ORCID
+## {{< ai orcid color="green">}} ORCID
 
-Checkout my [OrCID Profile](https://google.com)
+Checkout my [ORCID Profile](https://orcid.org)
 
-## {{< ai scopus >}} Scopus
+## {{< ai scopus color="orange">}} Scopus
 
-Checkout my [Scopus Profile](https://google.com)
+Checkout my [Scopus Profile](https://www.scopus.com/)
 
-## {{< ai google-scholar >}} Google Scholar
+## {{< ai google-scholar color="blue">}} Google Scholar
 
 Checkout my [Google Scholar Profile](https://scholar.google.com)
 :::
