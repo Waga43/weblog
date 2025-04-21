@@ -1,7 +1,7 @@
-# Web Development Projects
+# Web Development Projects 
 
 ## 1️⃣ EduTechTainMent Forum
-:::: columns
+:::: {.columns}
 ::: {.column width="55%"}
 I developed the EduTechTainMent Forum website from scratch. This will serve as an interactive platform for all members to network and learn from each other. I can also use it to share guides and other works. It has proved to be hugely useful for my workflow.
 
@@ -12,7 +12,7 @@ Check out the [EduTechTainMent Forum](https://edutechtainment.net)
 :::
 
 ::: {.column width="40%"}
-![EduTechTainMent Forum](assets\ettmpage.png)
+![EduTechTainMent Forum](assets\ettmpage.png){#fig-ettmpage group="mywebdevprojects"}
 :::
 
 ::::
@@ -22,7 +22,7 @@ Check out the [EduTechTainMent Forum](https://edutechtainment.net)
 ## 2️⃣ Yoruba Community Forum Website
 :::: columns
 ::: {.column width="40%"}
-![Yoruba Community Forum Website](assets\ycajigawa.png)
+![Yoruba Community Forum Website](assets\ycajigawa.png){#fig-ycajigawa  group="mywebdevprojects"}
 :::
 
 ::: {.column width="5%"}
@@ -42,7 +42,7 @@ Check out the [YCA Jigawa Forum](https://ycajigawa.org.ng)
 ## 3️⃣ The Nigeria Medical Association (NMA) Jigawa Forum Website
 :::: columns
 ::: {.column width="55%"}
-![Nigeria Medical Association Jigawa state chapter Website Forum](assets\nmajigawapage.png)
+![Nigeria Medical Association Jigawa state chapter Website Forum](assets\nmajigawapage.png){#fig-nmajigawapage  group="mywebdevprojects"}
 :::
 
 ::: {.column width="5%"}
@@ -71,7 +71,7 @@ Check out the [EduTechTainMent Learning Management System Website](https://lms.e
 :::
 
 ::: {.column width="55%"}
-![EduTechTainMent Learning Management System Website](assets\lmspage.png)
+![EduTechTainMent Learning Management System Website](assets\lmspage.png){#fig-lmspage  group="mywebdevprojects"}
 :::
 
 ::::
@@ -81,7 +81,7 @@ Check out the [EduTechTainMent Learning Management System Website](https://lms.e
 ## 5️⃣ The Nigeria Medical Association (NMA) Jigawa Annual Scientific Conference Landing Page
 :::: columns
 ::: {.column width="55%"}
-![Nigeria Medical Association, Jigawa State Branch Annual Scientific Conference Landing Page](assets\nmajigawacme.png)
+![Nigeria Medical Association, Jigawa State Branch Annual Scientific Conference Landing Page](assets\nmajigawacme.png){#fig-nmajigawacme  group="mywebdevprojects"}
 :::
 
 ::: {.column width="5%"}
@@ -110,7 +110,7 @@ Check out the [The Nigeria Medical Association Annual General Meeting Landing Pa
 :::
 
 ::: {.column width="55%"}
-![The Nigeria Medical Association Jigawa state chapter Annual General Meeting Landing Page](assets\nmajigawaagm.png)
+![The Nigeria Medical Association Jigawa state chapter Annual General Meeting Landing Page](assets\nmajigawaagm.png){#fig-nmajigawacagm  group="mywebdevprojects"}
 :::
 
 ::::
@@ -120,7 +120,7 @@ Check out the [The Nigeria Medical Association Annual General Meeting Landing Pa
 ## 7️⃣ The Nigeria Building and Road Research Institute (NBRRI) International Conference Landing Page
 :::: columns
 ::: {.column width="55%"}
-![The Nigeria Building and Road Research Institute International Conference Landing Page](assets\nbrripage.png)
+![The Nigeria Building and Road Research Institute International Conference Landing Page](assets\nbrripage.png){#fig-nbrripage  group="mywebdevprojects"}
 :::
 
 ::: {.column width="5%"}
@@ -149,7 +149,7 @@ Check out the [The Physiology Career Awareness and Training Initiative (PCATI) 2
 :::
 
 ::: {.column width="55%"}
-![The Physiology Career Awareness and Training Initiative (PCATI) 2025 Workshop Website](assets\pcatipage.png)
+![The Physiology Career Awareness and Training Initiative (PCATI) 2025 Workshop Website](assets\pcatipage.png){#fig-pcatipage  group="mywebdevprojects"}
 :::
 
 ::::
