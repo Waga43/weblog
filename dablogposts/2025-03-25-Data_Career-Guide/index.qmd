@@ -11,8 +11,9 @@ categories: [data, guide, career, data]
 
 DataCamp shared an info-graphic showcasing the anatomy of a data team with different data roles[^1]. You can [download the infographic to see](https://images.datacamp.com/image/upload/v1657133340/Marketing/Blog/Anatomy_of_a_Data_Team_Different_Data_Roles.pdf).
 
-A picture is worth than a thousand words, therefore you can equally checkout the info-graphics below to know more about the various data roles
+[^1]: [DataCamp Data Roles Infographic](https://www.datacamp.com/blog/infographic-the-anatomy-of-a-data-team-different-data-roles)
 
+A picture is worth than a thousand words, therefore you can equally checkout the info-graphics below to know more about the various data roles
 
 ::: {#fig-career1 layout-nrow="5" group="data-career"}
 ![Astreya Data Career Guide](images/astreya-Data-career-path.png)
@@ -32,10 +33,9 @@ A picture is worth than a thousand words, therefore you can equally checkout the
 ![Data Consumers](images/datacamp-ml-scientists.png)
 
 ![Statisticians](images/datacamp-statisticians.png)
-
-
 :::
 
+```{=html}
 <!-- ::: attribution
 [Astreya Associates](https://astreya.com/)
 :::
@@ -103,8 +103,7 @@ A picture is worth than a thousand words, therefore you can equally checkout the
 ::: attribution
 [DataCamp](https://datacamp.com/)
 ::: -->
-
-[^1]: [DataCamp Data Roles Infographic](https://www.datacamp.com/blog/infographic-the-anatomy-of-a-data-team-different-data-roles)
+```
 
 ## [Data Professionals Roadmap.sh](http://roadmap.sh)
 
@@ -118,28 +117,27 @@ Hands-On Practice to learn:
 
 ::: {layout-ncol="2"}
 ## A
-- Python programming
 
-- R programming
+-   Python programming
 
-- SQL
+-   R programming
 
-- Tableau
+-   SQL
+
+-   Tableau
 
 ## B
 
-- Excel
+-   Excel
 
-- PowerBI
+-   PowerBI
 
-- Statistical concepts
+-   Statistical concepts
 
-- Etc
-
+-   Etc
 :::
 
-
----
+------------------------------------------------------------------------
 
 Earn globally recognized certifications in DA/DS/AI/ML
 
@@ -147,11 +145,11 @@ Learn more about the difference between R and Python
 
 Learn and become a DataCamp certified:
 
-- Data Analyst
+-   Data Analyst
 
-- Data Scientist
+-   Data Scientist
 
-- AI and ML expert/developer
+-   AI and ML expert/developer
 
 ## DataCamp Certification Types
 
@@ -181,46 +179,45 @@ You can choose from any one or more of the following career tracks on DataCamp:
 ::: {layout-ncol="3"}
 ## A
 
-- Data Scientist with Python
+-   Data Scientist with Python
 
-- Data Analyst in SQL
+-   Data Analyst in SQL
 
-- Data Analyst with Python
+-   Data Analyst with Python
 
-- Data Engineer
+-   Data Engineer
 
-- Data Analyst in Power BI
+-   Data Analyst in Power BI
 
-- Python Developer
+-   Python Developer
 
 ## B
 
-- Data Scientists with R
+-   Data Scientists with R
 
-- Data Scientists Professional with Python
+-   Data Scientists Professional with Python
 
-- Machine Learning Scientist with Python
+-   Machine Learning Scientist with Python
 
-- Data Analyst with R
+-   Data Analyst with R
 
-- Machine Learning Engineer
+-   Machine Learning Engineer
 
-- Data Analyst in Tableau
+-   Data Analyst in Tableau
 
 ## C
 
-- Data Scientists Professional with R
+-   Data Scientists Professional with R
 
-- SQL Server Developer
+-   SQL Server Developer
 
-- R Developer
+-   R Developer
 
-- Statistician with R
+-   Statistician with R
 
-- Quantitative Analyst with R
+-   Quantitative Analyst with R
 
-- Machine Learning Scientist with R
-
+-   Machine Learning Scientist with R
 :::
 
 ## How to get DataCamp Premium Subscription
@@ -269,8 +266,9 @@ Markdown is the `"language"` in which those in the IT world write and communicat
 7.  [Codecademy Markdown Tutorial](https://resources/docs/markdown)
 8.  [Zapier Markdown Guide for Beginners](https://zapier.com/blog/beginner-ultimate-guide-markdown/#apps)
 
+There are numerous tools [^2] you can use to write markdown text, both offline, online and even on mobile.
 
-There are numerous tools [^3] you can use to write markdown text, both offline, online and even on mobile.
+[^2]: [Markdown Tools](https://www.markdownguide.org/tools)
 
 ## Arewa Data Science Scholarship
 
@@ -285,9 +283,9 @@ There are numerous tools [^3] you can use to write markdown text, both offline, 
 
 ## DataCamp Certifications Study Guide
 
-[^3]: [Markdown Tools](https://www.markdownguide.org/tools)
+DataCamp [^3] suggests the following timelines for the career tracks:
 
-DataCamp [^2] suggests the following timelines for the career tracks: 
+[^3]: [Data Data Professional Certifications Timelines](https://www.datacamp.com/blog/data-analyst-vs-data-scientist-a-comparative-guide)
 
 1.  Associate Data Analyst with Python (**9 Courses: 36 hours, 2 skill assessments, and 5 projects**)
 2.  Data Analyst in PowerBI (**17 courses: 48 hours**)
@@ -309,8 +307,6 @@ DataCamp [^2] suggests the following timelines for the career tracks:
 18. SQL Server Developer (**10 courses: 41 hours**)
 19. R Developer (**13 courses: 52 hours, 2 skill assessment, 1 projects**)
 20. Statistician with R (**13 courses: 52 hours, 1 project**)
-
-[^2]: [Data Data Professional Certifications Timelines](https://www.datacamp.com/blog/data-analyst-vs-data-scientist-a-comparative-guide)
 
 ## Structure of the DataCamp Certifications
 
@@ -350,12 +346,12 @@ DataCamp certifications are developed in partnership with industry experts. They
 ::: callout-warning
 ## Duration
 
-You'll have 30 days or 2 attempts to pass and get certified.
+**You'll have 30 days or 2 attempts** to pass and get certified.
 :::
 
 DataCamp offers both Associate and Professional certifications, designed to reflect entry-level and more experienced skill levels, respectively. The main difference between the two is the difficulty of the questions and the final exam requirements.
 
--   \*\*Associate certification\*\*: Designed for those starting out, and aligns with entry-level job expectations. It consists of a series of DataCamp assessments.
+-   **Associate certification:** Designed for those starting out, and aligns with entry-level job expectations. It consists of a series of DataCamp assessments.
 
 -   **Professional certification:** Designed for those with at least two years of experience. It requires a written and verbal presentation for the final exam.
 
@@ -366,7 +362,7 @@ DataCamp offers both Associate and Professional certifications, designed to refl
 ::: callout-caution
 ## Number of Attempts
 
-Once you begin a certification you will have 30 days or 2 attempts to complete all requirements, whichever occurs first. If you're unable to complete the requirements within 30 days from starting, your progress will reset.
+**Once you begin a certification you will have** <mark>30 days or 2 attempts to complete all requirements</mark>, whichever occurs first. If you're unable to complete the requirements within 30 days from starting, your progress will reset.
 :::
 
 ## [Interview Prep](https://app.datacamp.com/certification/job-interview-simulation/welcome)
@@ -451,7 +447,7 @@ This platform is one of the very best in what they do. I love their way of teach
 
 ## OneCampus Academy
 
-\~[OneCampus Academy](https://onecampusacademy.com/maintenance) offers programs on Data Analytics, Data Science and Machine Learning\~
+~~[OneCampus Academy](https://onecampusacademy.com/maintenance) offers programs on Data Analytics, Data Science and Machine Learning~~
 
 ## INCO Academy
 
@@ -481,9 +477,29 @@ All graduates of the [INCO Green Digital Skills Program (powered by INCO Academy
 14. [OpenML Datasets](https://www.openml.org/search?type=data&sort=runs&status=active)
 15. [Academic Torrents](https://academictorrents.com/)
 
+<!-- ```{=html}
+<iframe width="700" height="500" src="https://edutechtainment.net/" title="ETTM Forum"></iframe>
+```
+--- -->
+
+
+<!-- ## ETTM Forum Embed -->
+
+<!-- ```{=html}
+<iframe width="700" height="500" src="https://nairaland.com/" title="ETTM Forum"></iframe>
+``` -->
 ## Other Important Resources
 
-[From Data to Viz](https://www.data-to-viz.com/#scatter): learn how best to choose the right visualizations for your data and avoid the common pitfalls in creating a visualization.
+[From Data to Viz](https://www.data-to-viz.com/): learn how best to choose the right visualizations for your data and avoid the common pitfalls in creating a visualization.
+
+<!-- {{< html https://edutechtainment.net/ >}} -->
+
+<!-- ---
+
+
+```{=html}
+<iframe width="700" height="500" src="https://quarto.org/" title="Quarto Documentation"></iframe>
+``` -->
 
 ## Import Important Libraries
 
@@ -518,4 +534,3 @@ Are you constrained by lack of a decent specification laptop or even desktop com
 
 > **"Over Every Possessor of Knowledge, There is (Some) One (Else) More Knowledgeable"**
 :::
-

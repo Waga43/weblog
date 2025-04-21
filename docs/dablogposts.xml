@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Wed, 26 Mar 2025 09:55:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 21 Apr 2025 10:05:11 GMT</lastBuildDate>
 <item>
   <title>EduTechTainMent Data Career Guide</title>
   <link>https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/</link>
@@ -451,12 +451,12 @@ Duration
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>You’ll have 30 days or 2 attempts to pass and get certified.</p>
+<p><strong>You’ll have 30 days or 2 attempts</strong> to pass and get certified.</p>
 </div>
 </div>
 <p>DataCamp offers both Associate and Professional certifications, designed to reflect entry-level and more experienced skill levels, respectively. The main difference between the two is the difficulty of the questions and the final exam requirements.</p>
 <ul>
-<li><p>**Associate certification**: Designed for those starting out, and aligns with entry-level job expectations. It consists of a series of DataCamp assessments.</p></li>
+<li><p><strong>Associate certification:</strong> Designed for those starting out, and aligns with entry-level job expectations. It consists of a series of DataCamp assessments.</p></li>
 <li><p><strong>Professional certification:</strong> Designed for those with at least two years of experience. It requires a written and verbal presentation for the final exam.</p></li>
 <li><p><strong>DataCamp Learning Plans towards Certifications</strong>: DataCamp allows you to build a plan from scratch or take assessments to target lessons specifically for you.</p></li>
 </ul>
@@ -473,7 +473,7 @@ Number of Attempts
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Once you begin a certification you will have 30 days or 2 attempts to complete all requirements, whichever occurs first. If you’re unable to complete the requirements within 30 days from starting, your progress will reset.</p>
+<p><strong>Once you begin a certification you will have</strong> <mark>30 days or 2 attempts to complete all requirements</mark>, whichever occurs first. If you’re unable to complete the requirements within 30 days from starting, your progress will reset.</p>
 </div>
 </div>
 </section>
@@ -563,7 +563,7 @@ Number of Attempts
 </section>
 <section id="onecampus-academy" class="level2">
 <h2 class="anchored" data-anchor-id="onecampus-academy">OneCampus Academy</h2>
-<p>~<a href="https://onecampusacademy.com/maintenance">OneCampus Academy</a> offers programs on Data Analytics, Data Science and Machine Learning~</p>
+<p><del><a href="https://onecampusacademy.com/maintenance">OneCampus Academy</a> offers programs on Data Analytics, Data Science and Machine Learning</del></p>
 </section>
 <section id="inco-academy" class="level2">
 <h2 class="anchored" data-anchor-id="inco-academy">INCO Academy</h2>
@@ -595,10 +595,25 @@ Number of Attempts
 <li><a href="https://www.openml.org/search?type=data&amp;sort=runs&amp;status=active">OpenML Datasets</a></li>
 <li><a href="https://academictorrents.com/">Academic Torrents</a></li>
 </ol>
+<!-- ```{=html}
+<iframe width="700" height="500" src="https://edutechtainment.net/" title="ETTM Forum"></iframe>
+```
+--- -->
+<!-- ## ETTM Forum Embed -->
+<!-- ```{=html}
+<iframe width="700" height="500" src="https://nairaland.com/" title="ETTM Forum"></iframe>
+``` -->
 </section>
 <section id="other-important-resources" class="level2">
 <h2 class="anchored" data-anchor-id="other-important-resources">Other Important Resources</h2>
-<p><a href="https://www.data-to-viz.com/#scatter">From Data to Viz</a>: learn how best to choose the right visualizations for your data and avoid the common pitfalls in creating a visualization.</p>
+<p><a href="https://www.data-to-viz.com/">From Data to Viz</a>: learn how best to choose the right visualizations for your data and avoid the common pitfalls in creating a visualization.</p>
+<!--  -->
+<!-- ---
+
+
+```{=html}
+<iframe width="700" height="500" src="https://quarto.org/" title="Quarto Documentation"></iframe>
+``` -->
 </section>
 <section id="import-important-libraries" class="level2">
 <h2 class="anchored" data-anchor-id="import-important-libraries">Import Important Libraries</h2>
@@ -606,7 +621,7 @@ Number of Attempts
 <p>Feel free to modify and use it as you wish. I will also be updating the code regularly, whenever I add contents to this EduTechTainMent Data Career Resources and Guide.</p>
 <p>Steps Download the file via this LINK. Save the file in a convenient location, preferably a cloud storage directory you can access remotely on any device you are connected to. I would strongly recommend <a href="https://k00.fr/fywszbgp">Koofr</a>, which gives you 5 to 10Gb storage space and allows you to connect and sync your files seamlessly across multiple devices- desktop PC, laptops, android mobile phones, as well as connect and sync files from other popular cloud storages such as Google Drive, OneDrive, and DropBox. It aslo supprots WebDav. I use Koofr seamlessly across about 3 laptops, 2 desktop PCs and 1 android smartphone. I can access all my files from all these devices from anywhere in the world, and I don’t get restricted by location.</p>
 <p>Load the file into your Jupyter notebook by running the code below without the quotation marks.</p>
-<div id="6b68076a" class="cell" data-execution_count="1">
+<div id="85a30623" class="cell" data-execution_count="1">
 <details open="" class="code-fold">
 <summary>Show the code</summary>
 <div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="op" style="color: #5E5E5E;
@@ -643,6 +658,8 @@ EduTechTainMent Motto
 </div>
 
 
+<!-- -->
+
 </section>
 
 
@@ -663,7 +680,7 @@ EduTechTainMent Motto
   <category>career</category>
   <category>data</category>
   <guid>https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/</guid>
-  <pubDate>Wed, 26 Mar 2025 09:55:13 GMT</pubDate>
+  <pubDate>Mon, 21 Apr 2025 10:05:11 GMT</pubDate>
 </item>
 </channel>
 </rss>

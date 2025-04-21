@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: docs
+
+  # Configure the preview of your site on localhost
+  preview:
+    port: 4300
+    browser: true
+
 jupyter: python3
 # engine: knitr
 
@@ -144,6 +150,11 @@ website:
           - text: "🎓 Academic Works"
             href: academicblogposts.qmd
 
+      - text: "✨ Projects"
+        menu: 
+          - text: "🕸 Web Dev Projects"
+            href: webdevprojects.qmd
+
     right:
       - text: 🌐 Additional Sites
         menu:
@@ -165,13 +176,29 @@ website:
             # icon: graduation-cap
             href: https://lms.edutechtainment.net
             target: _blank
-      - icon: rss
-        href: index.xml
-        target: _blank
 
-      - icon: twitter
-        href: https://x.com/@edutech_tm
-        target: _blank
+      - text: "🌈 RSS Feeds"
+        menu:
+          - text: "DA/DS RSS"
+            icon: rss
+            href: dablogposts.xml
+            target: _blank
+
+          - text: "ML/AI RSS"
+            icon: rss
+            href: mlblogposts.xml
+            target: _blank
+
+          - text: "Public Works RSS"
+            icon: rss
+            href: publicworksblogposts.xml
+            target: _blank
+
+          - text: "Academic Works RSS"
+            icon: rss
+            href: academicblogposts.xml
+            target: _blank
+
 
       - icon: github
         href: https://github.com/waga43
@@ -192,6 +219,7 @@ format:
     code-summary: "Show the code"
     email-obfuscation: references
     code-overflow: wrap
+    code-tools: true
     # code-links: true
 
     # other-links:
@@ -266,6 +294,25 @@ lightbox:
 resources:
   - "data/*.csv"
 
+# embed-resources: true
+
+# Extensions
+filters:
+  # - collapse-social-embeds
+  - embedio
+  - social-share
+share:
+  permalink: "https://waga43.github.io/weblog/"
+  description: "EduTechTainMent Weblog"
+  twitter: true
+  facebook: true
+  reddit: true
+  stumble: true
+  tumblr: true
+  linkedin: true
+  email: true
+  mastodon: true
+  bsky: true
 
 # page-footer:
 #     background: light

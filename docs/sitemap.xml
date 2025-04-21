@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://waga43.github.io/weblog/trademark.html</loc>
-    <lastmod>2025-03-23T16:49:24.748Z</lastmod>
+    <loc>https://waga43.github.io/weblog/webdevprojects.html</loc>
+    <lastmod>2025-04-21T09:43:38.276Z</lastmod>
   </url>
   <url>
-    <loc>https://waga43.github.io/weblog/mlblogposts.html</loc>
-    <lastmod>2025-03-26T09:07:13.768Z</lastmod>
-  </url>
-  <url>
-    <loc>https://waga43.github.io/weblog/index.html</loc>
-    <lastmod>2025-03-26T09:18:07.923Z</lastmod>
-  </url>
-  <url>
-    <loc>https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/index.html</loc>
-    <lastmod>2025-03-26T09:09:58.590Z</lastmod>
-  </url>
-  <url>
-    <loc>https://waga43.github.io/weblog/about.html</loc>
-    <lastmod>2025-03-26T05:48:17.742Z</lastmod>
-  </url>
-  <url>
-    <loc>https://waga43.github.io/weblog/academicblogposts.html</loc>
-    <lastmod>2025-03-26T09:06:51.708Z</lastmod>
-  </url>
-  <url>
-    <loc>https://waga43.github.io/weblog/dablogposts.html</loc>
-    <lastmod>2025-03-26T09:05:21.420Z</lastmod>
+    <loc>https://waga43.github.io/weblog/publicworksblogposts.html</loc>
+    <lastmod>2025-03-26T09:07:35.897Z</lastmod>
   </url>
   <url>
     <loc>https://waga43.github.io/weblog/license.html</loc>
     <lastmod>2025-03-23T16:46:41.597Z</lastmod>
   </url>
   <url>
-    <loc>https://waga43.github.io/weblog/publicworksblogposts.html</loc>
-    <lastmod>2025-03-26T09:07:35.897Z</lastmod>
+    <loc>https://waga43.github.io/weblog/dablogposts.html</loc>
+    <lastmod>2025-03-26T09:05:21.420Z</lastmod>
+  </url>
+  <url>
+    <loc>https://waga43.github.io/weblog/academicblogposts.html</loc>
+    <lastmod>2025-03-26T09:06:51.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://waga43.github.io/weblog/about.html</loc>
+    <lastmod>2025-04-21T07:42:15.723Z</lastmod>
+  </url>
+  <url>
+    <loc>https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/index.html</loc>
+    <lastmod>2025-04-18T11:26:48.905Z</lastmod>
+  </url>
+  <url>
+    <loc>https://waga43.github.io/weblog/index.html</loc>
+    <lastmod>2025-04-21T10:04:43.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://waga43.github.io/weblog/mlblogposts.html</loc>
+    <lastmod>2025-03-26T09:07:13.768Z</lastmod>
+  </url>
+  <url>
+    <loc>https://waga43.github.io/weblog/trademark.html</loc>
+    <lastmod>2025-03-23T16:49:24.748Z</lastmod>
   </url>
 </urlset>

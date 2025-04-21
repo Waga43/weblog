@@ -99,7 +99,7 @@ Terminal
 git rm -r _site
 ```
 
-:::: callout-warning
+::: callout-warning
 ## Error
 
 **There are various types of error in python code execution:**
@@ -112,7 +112,314 @@ git rm -r _site
     2.  Old
 
 -   Third
+:::
 
+---
+# title: "Intro to Quarto"
+# number-sections: true
+# # shift-heading-level-by: -1
+# # number-depth: 2
+# number-offset: 0
+# subtitle: My Intro to Quarto Markdown Document
+# subject: Quarto
+# code-annotations: true
+---
+
+# 1️⃣ Introduction {#sec-intro}
+
+This is a [Quarto website](https://quarto.org).
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Did you intend 'assign' as a Lua filter in an extension? If so, make sure you've spelled the name of the extension correctly.
+
+::: column-margin
+{{< placeholder 400 200 format=svg >}} {#fig-placeholder group="plots"}
+:::
+
+::: column-margin
+![AI](ai2.png){#fig-ai2 group="plots"}
+:::
+
+# 2️⃣ Running a Code Block
+
+```{python}
+# pip list
+print("Done")
+```
+
+```{python}
+pip freeze > pkgs.txt
+```
+
+{{< lipsum 2 >}}
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+
+<!-- #| cap-location: bottom -->
+
+```{python}
+
+#| label: fig-plot2
+#| lst-label: lst-matplotlib-import
+#| lst-cap: Matplotlib Plot 1
+#| fig-cap: Matplotlib Figure
+import matplotlib.pyplot as plt #<1>
+plt.plot([1,23,2,4]) #<2>
+# plt.title(("Matplotlib Plot"))
+plt.show() #<3>
+print("Welcome")
+```
+
+1.  Import matplotlib library
+2.  Run the plot function to plot a list of numbers
+3.  Display the plot
+
+see the code of @lst-matplotlib-import and the output in @fig-plot2
+
+# 3️⃣ Inserting a Code Cell with File Name
+
+``` {#lst-matplot .python filename="matplotlib.py"}
+|# lightbox:
+|# group: plots
+import matplotlib.pyplot as plt #<1>
+plt.plot([1,23,2,4]) #<2>
+plt.show() #<3>
+```
+
+1.  Import matplotlib library
+2.  Run the plot function to plot a list of numbers
+3.  Display the plot
+
+<!-- [![Image 2](ai2.png){fig-alt="AI Image 2" fig-align="center"}](ai2) -->
+
+{{< fa envelope title="An envelope" >}}
+
+# 4️⃣ Inserting Images
+
+![AI2](ai2.png "AI Image"){group="plots"}
+
+see @fig-a2
+
+# 5️⃣ Inserting Tab Panels
+
+::: panel-tabset
+## ❓Question
+
+Write a python code to create a list containing 5 elements. Print out the contents of the list, with each element on a line.
+
+## ❇️ Rubric
+
++1 mark for creating the right list
+
++1 mark for printing out the right contents as instructed above
+
+## 🆗 Solution
+
+```{python}
+#| lst-label: lst-pycode1
+#| lst-cap: Python Code 1
+list1 = [1, 2, 3, 4, 5]
+for item in list1:
+    print(item, end='\n')
+```
+:::
+
+See @lst-pycode1
+
+```{python}
+import sys
+import matplotlib.pyplot as plt
+print(sys.executable)
+print(sys.path)
+```
+
+[This is a span that has the class aside which places it in the margin without a footnote number.]{.aside}
+
+# 6️⃣ Panel Tab with Hidden Sections
+
+```{python}
+print("Hello World!")
+
+```
+
+```{python}
+#| echo: false
+print("Write your code in this python cell and check your output")
+
+
+```
+
+::: panel-tabset
+## ❓Question 1
+
+Create a new list named `list1` and Print the list with each element on a new line.
+
+## ✳️ Rubric - Expected output
+
+```{python}
+#| echo: false
+list1 = [1, 2, 3, 4, 5]
+for item in list1:
+    print(item, end='\n')
+```
+
+## ✅ Solution
+
+```{python}
+#| code-fold: true
+list1 = [1, 2, 3, 4, 5]
+for item in list1:
+    print(item, end='\n')
+```
+
+## 🆗 Copy Code File
+
+``` {.python filename="list1.py"}
+#| column: margin
+list1 = [1, 2, 3, 4, 5] #<1>
+for item in list1: #<2>
+    print(item, end='\n') #<2>
+```
+
+1.  Create a new list named `list` containing integers 1 to 5
+2.  Implement a `for` loop through the `list1`, signify the `end='\n'` parameter.
+:::
+
+## ➡️ Cross Referencing
+
+See @fig-a2 for details.
+
+::: column-body
+![](ai2.png)
+:::
+
+<br>
+
+::::::: white-div
+::: {.medium-body-text .center-text}
+**We are researchers whose work was so profoundly improved because of the open science community that we are dedicating our careers to empowering others and growing the movement.**
+:::
+
+::::: grid
+::: g-col-6
+![](ai3.png)
+:::
+
+::: g-col-6
+## Hi, I'm WagaSigiUngu
+
+I'm a mathematics PhD students with a passion for R, data visualization, Shiny and statistics/machine learning. On this blog, I share and teach what I learn.
+
+To get started, you can check out my most popular content below. You can find me on [Twitter](https://twitter.com/rappa753) or [GitHub](https://github.com/AlbertRapp) and [YouTube](https://www.youtube.com/user/Alfrodo123). Feel free to reach out to me via [mail](mailto:blog@albert-rapp.de) and subscribe to my email newsletter.
+
+<iframe id="beehiiv-form" src="https://embeds.beehiiv.com/9232d2a2-6e85-4beb-b8ed-1de94e9e4f01?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 75px">
+
+</iframe>
+:::
+
+![AI 3](ai3.png){group="plots" fig-align="center"}
+:::::
+:::::::
+
+# 7️⃣ Heading Number 1
+
+{{< lipsum 1 >}}
+
+``` {.python filename="list1.py"}
+#| column: margin
+list1 = [1, 2, 3, 4, 5] #<1>
+for item in list1: #<2>
+    print(item, end='\n') #<2>
+```
+
+## Sub Heading
+
+{{< lipsum 1 >}}
+
+### Sub sub Heading 3
+
+{{< lipsum 1 >}}
+
+# 8️⃣ Another Heading 1
+
+{{< lipsum 1 >}}
+
+## Heading 2
+
+{{< lipsum 1 >}}
+
+### Heading 3
+
+{{< lipsum 1 >}}
+
+#### Heading 4
+
+{{< lipsum 1 >}}
+
+::: {#fig-ai layout-ncol="2"}
+![AI 1](ai2.png){#fig-a1} AI 1
+
+![AAI 2](ai3.png){#fig-a2} AI 2 Famous AI Images
+:::
+
+See @fig-a1 and @fig-a2
+
+# 9️⃣ Heading 1
+
+See @fig-ai for examples. In particular, @fig-a2.
+
+See @sec-intro for the beginning.
+
+![A drawing of an elephant.](elephant.png)\
+
+# Row Layout
+
+::: {layout-nrow="2"}
+![Surus](elephant.png)
+
+![Hanno](ai2.png)
+
+![Abdul Abbas](ai3.png)
+
+![Lin Wang](elephant.png)
+:::
+
+# Column Layout
+
+::: {layout-ncol="2"}
+![](elephant)
+
+![](ai3)
+:::
+
+------------------------------------------------------------------------
+
+# Custom Figure Layout
+
+::: {layout="[[1,1], [1]]"}
+![Surus](ai2.png)
+
+![Hanno](ai3.png)
+
+![Big Elephant](elephant.png)
+:::
+
+::: {layout-ncol="2"}
+### List One
+
+-   Item A
+-   Item B
+-   Item C
+
+### List Two
+
+-   Item X
+-   Item Y
+-   Item Z
+:::
+
+:::: callout-warning
 ## References
 
 ::: {#refs}

@@ -83,7 +83,7 @@ Udacity Python for Data Science cert. (2023) \|
 
 ------------------------------------------------------------------------
 
-## Web Dev Projects 1
+<!-- ## Web Dev Projects 1
 
 ::: panel-tabset
 ## EduTechTainMent Forum
@@ -114,22 +114,22 @@ Built a [Landing Page for the Nigeria Building and Road Research Institute (NBRR
 
 And some more 🙂 😊 ........
 
-:::
+::: -->
 
 ------------------------------------------------------------------------
 
 ## Contact Me
 
 ::: panel-tabset
-## Personal Email
+## {{< bi envelope >}} Personal Email
 
 Send me a Personal [📨 Email](mailto:edutech.tm@gmail.com)
 
-## Institutional Email
+## {{< bi envelope-at >}} Institutional Email
 
 Send Abdulwasiu an [Institutional (Professional) 📨 Email](mailto:abdulwasiu.b@fud.edu.ng)
 
-## Organizational Email
+## {{< bi envelope-at-fill >}} Organizational Email
 
 Send EduTechTainMent an [Organizational (Professional) 📨 Email](mailto:support@edutechtainment.net)
 :::
@@ -139,19 +139,19 @@ Send EduTechTainMent an [Organizational (Professional) 📨 Email](mailto:suppor
 ## Public Social Profiles
 
 ::: panel-tabset
-## LinkedIn
+## {{< bi github >}} LinkedIn
 
 Let's connect 🤝 on [LinkedIn](https://linkedin.com/in/abdulwasiu)
 
-## GitHub
+## {{< bi github >}} GitHub
 
 Check out 👀 my [GitHub Profile](https://github.com/waga43)
 
-## YouTube
+## {{< bi youtube >}} YouTube
 
 Watch 👁 educational and informative posts 🎞 on my [EduTechTainment YouTube Channel](https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw)
 
-## Twitter
+## {{< bi twitter-x >}} Twitter
 
 Follow me 🚶🏾‍♂️‍➡️ on [X (formerly Twitter)](https://x.com/waga43)
 
@@ -163,15 +163,15 @@ Follow EduTechTainMent 🚶🏾‍♂️‍➡️ on [X (formerly Twitter)](http
 ## Public Academic Profiles
 
 ::: panel-tabset
-## OrCID
+## {{< ai orcid >}} ORCID
 
 Checkout my [OrCID Profile](https://google.com)
 
-## Scopus
+## {{< ai scopus >}} Scopus
 
 Checkout my [Scopus Profile](https://google.com)
 
-## Google Scholar
+## {{< ai google-scholar >}} Google Scholar
 
 Checkout my [Google Scholar Profile](https://scholar.google.com)
 :::
