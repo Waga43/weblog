@@ -531,6 +531,9 @@ Are you constrained by lack of a decent specification laptop or even desktop com
 3.  [Google Colab](https://colab.research.google.com/)
 4.  Make use of your mobile phone as a last resort. Although its not the best, user-experience wise, it at least enables you to get started practicing without the need to procrastinate due to unavailability of a laptop computer. I will be sharing a guide on how to use you smartphone for this purpose soon. Just stay tuned.
 
+
+---
+
 ::: callout-note
 ## EduTechTainMent Motto
 
