@@ -4,6 +4,9 @@ project:
 jupyter: python3
 # engine: knitr
 
+# Author
+author: Abdulwasiu Bamidele Popoola | EduTechTainMent
+
 # Website Options
 website:
   title: "ETTM Weblog"

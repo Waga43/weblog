@@ -15,24 +15,24 @@ DataCamp shared an info-graphic showcasing the anatomy of a data team with diffe
 
 A picture is worth than a thousand words, therefore you can equally checkout the info-graphics below to know more about the various data roles
 
-::: {#fig-career1 layout-nrow="5" group="data-career"}
-![Astreya Data Career Guide](images/astreya-Data-career-path.png)
+::: {layout-nrow="5"}
+![Astreya Data Career Guide](images/astreya-Data-career-path.png){#fig-astreya group="data-career"}
 
-![Data Analyst](images/datacamp-data-analyst.png)
+![Data Analyst](images/datacamp-data-analyst.png){#fig-analyst group="data-career"}
 
-![Data Consumers](images/datacamp-data-consumers.png)
+![Data Consumers](images/datacamp-data-consumers.png){#fig-consumers group="data-career"}
 
-![Data Engineers](images/datacamp-data-engineers.png)
+![Data Engineers](images/datacamp-data-engineers.png){#fig-engineers group="data-career"}
 
-![Data Scientists](images/datacamp-data-scientist.png)
+![Data Scientists](images/datacamp-data-scientist.png){#fig-scientists group="data-career"}
 
-![Programmers](images/datacamp-programmers.png)
+![Programmers](images/datacamp-programmers.png){#fig-programmers group="data-career"}
 
-![Business Analysts](images/datacamp-business-analysts.png)
+![Business Analysts](images/datacamp-business-analysts.png){#fig-business group="data-career"}
 
-![Data Consumers](images/datacamp-ml-scientists.png)
+![Data Consumers](images/datacamp-ml-scientists.png){#fig-ml group="data-career"}
 
-![Statisticians](images/datacamp-statisticians.png)
+![Statisticians](images/datacamp-statisticians.png){#fig-statiisticians group="data-career"}
 :::
 
 ```{=html}

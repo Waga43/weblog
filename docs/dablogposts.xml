@@ -17,9 +17,10 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Mon, 21 Apr 2025 11:19:05 GMT</lastBuildDate>
+<lastBuildDate>Mon, 21 Apr 2025 11:47:11 GMT</lastBuildDate>
 <item>
   <title>EduTechTainMent Data Career Guide</title>
+  <dc:creator>Abdulwasiu Bamidele Popoola | EduTechTainMent</dc:creator>
   <link>https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/</link>
   <description><![CDATA[ 
 
@@ -30,96 +31,128 @@
 <h2 class="anchored" data-anchor-id="the-anatomy-of-a-data-team">The Anatomy of a Data Team</h2>
 <p>DataCamp shared an info-graphic showcasing the anatomy of a data team with different data roles<sup>1</sup>. You can <a href="https://images.datacamp.com/image/upload/v1657133340/Marketing/Blog/Anatomy_of_a_Data_Team_Different_Data_Roles.pdf">download the infographic to see</a>.</p>
 <p>A picture is worth than a thousand words, therefore you can equally checkout the info-graphics below to know more about the various data roles</p>
-<div id="fig-career1" class="quarto-layout-panel">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-nrow="5">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-astreya" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
 <figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-career1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="images/astreya-Data-career-path.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Astreya Data Career Guide"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/astreya-Data-career-path.png" class="img-fluid figure-img"></a></p>
-<figcaption>Astreya Data Career Guide</figcaption>
-</figure>
+<div aria-describedby="fig-astreya-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/astreya-Data-career-path.png" class="lightbox" data-gallery="data-career" title="Figure&nbsp;1: Astreya Data Career Guide"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/astreya-Data-career-path.png" class="img-fluid figure-img"></a>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="images/datacamp-data-analyst.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Data Analyst"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-analyst.png" class="img-fluid figure-img"></a></p>
-<figcaption>Data Analyst</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="images/datacamp-data-consumers.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Data Consumers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-consumers.png" class="img-fluid figure-img"></a></p>
-<figcaption>Data Consumers</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="images/datacamp-data-engineers.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Data Engineers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-engineers.png" class="img-fluid figure-img"></a></p>
-<figcaption>Data Engineers</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="images/datacamp-data-scientist.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Data Scientists"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-scientist.png" class="img-fluid figure-img"></a></p>
-<figcaption>Data Scientists</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="images/datacamp-programmers.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="Programmers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-programmers.png" class="img-fluid figure-img"></a></p>
-<figcaption>Programmers</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="images/datacamp-business-analysts.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7" title="Business Analysts"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-business-analysts.png" class="img-fluid figure-img"></a></p>
-<figcaption>Business Analysts</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="images/datacamp-ml-scientists.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8" title="Data Consumers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-ml-scientists.png" class="img-fluid figure-img"></a></p>
-<figcaption>Data Consumers</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="images/datacamp-statisticians.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9" title="Statisticians"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-statisticians.png" class="img-fluid figure-img"></a></p>
-<figcaption>Statisticians</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-career1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-astreya-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Astreya Data Career Guide
 </figcaption>
 </figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-analyst" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-analyst-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/datacamp-data-analyst.png" class="lightbox" data-gallery="data-career" title="Figure&nbsp;2: Data Analyst"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-analyst.png" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-analyst-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Data Analyst
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-consumers" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-consumers-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/datacamp-data-consumers.png" class="lightbox" data-gallery="data-career" title="Figure&nbsp;3: Data Consumers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-consumers.png" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-consumers-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Data Consumers
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-engineers" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-engineers-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/datacamp-data-engineers.png" class="lightbox" data-gallery="data-career" title="Figure&nbsp;4: Data Engineers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-engineers.png" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-engineers-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: Data Engineers
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-scientists" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-scientists-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/datacamp-data-scientist.png" class="lightbox" data-gallery="data-career" title="Figure&nbsp;5: Data Scientists"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-data-scientist.png" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-scientists-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: Data Scientists
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-programmers" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-programmers-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/datacamp-programmers.png" class="lightbox" data-gallery="data-career" title="Figure&nbsp;6: Programmers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-programmers.png" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-programmers-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6: Programmers
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-business" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-business-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/datacamp-business-analysts.png" class="lightbox" data-gallery="data-career" title="Figure&nbsp;7: Business Analysts"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-business-analysts.png" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-business-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7: Business Analysts
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-ml" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-ml-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/datacamp-ml-scientists.png" class="lightbox" data-gallery="data-career" title="Figure&nbsp;8: Data Consumers"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-ml-scientists.png" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-ml-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;8: Data Consumers
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-statiisticians" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="data-career">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-statiisticians-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/datacamp-statisticians.png" class="lightbox" data-gallery="data-career" title="Figure&nbsp;9: Statisticians"><img src="https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/images/datacamp-statisticians.png" class="img-fluid figure-img"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-statiisticians-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;9: Statisticians
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
 </div>
 <!-- ::: attribution
 [Astreya Associates](https://astreya.com/)
@@ -621,7 +654,7 @@ Number of Attempts
 <p>Feel free to modify and use it as you wish. I will also be updating the code regularly, whenever I add contents to this EduTechTainMent Data Career Resources and Guide.</p>
 <p>Steps Download the file via this LINK. Save the file in a convenient location, preferably a cloud storage directory you can access remotely on any device you are connected to. I would strongly recommend <a href="https://k00.fr/fywszbgp">Koofr</a>, which gives you 5 to 10Gb storage space and allows you to connect and sync your files seamlessly across multiple devices- desktop PC, laptops, android mobile phones, as well as connect and sync files from other popular cloud storages such as Google Drive, OneDrive, and DropBox. It aslo supprots WebDav. I use Koofr seamlessly across about 3 laptops, 2 desktop PCs and 1 android smartphone. I can access all my files from all these devices from anywhere in the world, and I don’t get restricted by location.</p>
 <p>Load the file into your Jupyter notebook by running the code below without the quotation marks.</p>
-<div id="bec001dc" class="cell" data-execution_count="1">
+<div id="39d47940" class="cell" data-execution_count="1">
 <details open="" class="code-fold">
 <summary>Show the code</summary>
 <div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="op" style="color: #5E5E5E;
@@ -678,7 +711,7 @@ EduTechTainMent Motto
   <category>career</category>
   <category>data</category>
   <guid>https://waga43.github.io/weblog/dablogposts/2025-03-25-Data_Career-Guide/</guid>
-  <pubDate>Mon, 21 Apr 2025 11:19:05 GMT</pubDate>
+  <pubDate>Mon, 21 Apr 2025 11:47:11 GMT</pubDate>
 </item>
 </channel>
 </rss>
