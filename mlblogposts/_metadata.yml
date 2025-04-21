@@ -7,6 +7,9 @@ jupyter: python3
 # Author
 author: Abdulwasiu Bamidele Popoola | EduTechTainMent
 
+date: last-modified
+date-format: long
+
 # Website Options
 website:
   title: "ETTM Weblog"

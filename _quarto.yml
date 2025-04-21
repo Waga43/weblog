@@ -22,7 +22,7 @@ website:
   favicon: assets\favicon\favicon.ico
   cookie-consent: true
   body-footer: |
-            <center><p>&copy; 2025, Abdulwasiu B. Popoola. Some rights reserved. <br>This website is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License</a></p></center>
+            <center><p>&copy; 2025, Abdulwasiu B. Popoola | ETTM. Some rights reserved. <br>This website is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License</a></p></center>
 
   announcement:
     content: "**📣🗣 Welcome to ETTM Weblog:** _Over Every Possessor of Knowledge, There is (Some) One (Else) More Knowledgeable_"
@@ -242,7 +242,7 @@ format:
     code-links: # Setup for readers to download config file
       - text: " Download My YAML"
         icon: file-code
-        href: data\environment.yml
+        href: https://github.com/Waga43/weblog/blob/main/environment.yml
         target: _blank
 
     link-external-icon: true
