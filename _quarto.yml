@@ -219,7 +219,7 @@ format:
     code-summary: "Show the code"
     email-obfuscation: references
     code-overflow: wrap
-    code-tools: true
+    # code-tools: true
     # code-links: true
 
     # other-links:
