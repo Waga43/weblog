@@ -350,7 +350,7 @@ spyder-kernels @ file:///C:/b/abs_e5u6y4ldr2/croot/spyder-kernels_1707937767956/
 SQLAlchemy @ file:///C:/b/abs_7duxw5rxx8/croot/sqlalchemy_1725885067126/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///C:/b/abs_54b33xdukx/croot/statsmodels_1718381209933/work
-streamlit @ file:///C:/b/abs_84p_54gim8/croot/streamlit_1724335176234/work
+streamlit @ file:///C:/b/abs_844t7d2z7u/croot/streamlit-split_1743683308272/work/streamlit
 sympy @ file:///C:/b/abs_4e4p71hdj_/croot/sympy_1724938208509/work
 tables @ file:///C:/b/abs_92un5wtnqq/croot/pytables_1725380800658/work
 tabulate @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/tabulate_1701812852133/work

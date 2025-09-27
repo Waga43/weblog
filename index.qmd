@@ -31,19 +31,19 @@ about:
       target: _blank
 ---
 
-------------------------------------------------------------------------
 
-------------------------------------------------------------------------
+***
+***
 
 Welcome to my Weblog. It's a pleasure having you here. Let me give a quick background information about me.
 
 ## Education
 
-MBBS \| Bayero University Kano \|
+MBBS, Bayero University Kano 
 
-MSc. Human Physiology \| Bayero University Kano \|
+MSc. Human Physiology, Bayero University Kano 
 
-------------------------------------------------------------------------
+
 
 Head of Clinical and Immediate Past Director, University Health Services,
 
@@ -57,11 +57,13 @@ College of Medicine and Allied Medical Sciences,
 
 Federal University Dutse, Jigawa State, Nigeria.
 
-------------------------------------------------------------------------
+
 
 ## Professional Certifications
 
-ADAPTI cert. (2019) \| Data Science Dojo cert (2022) \|
+Data Science Dojo cert (2022) \|
+
+DLYA Data Science and Machine Learning Graduate \|
 
 McKinsey Forward (2022) \|
 
@@ -71,17 +73,31 @@ I4GxZuri Full-Stack Web Developer Cert. (2022) \|
 
 Hamoye Data Science (2022 and 2024) \|
 
-Udacity Certified Data Analyst (2022) \|
+ALX-T Udacity Certified Data Analyst (2022) \|
 
 Google Certified Data Analyst (2023) \|
 
-IBM Certified Data Analyst (2023) \|
+IBM Certified in Python For Data Science and AI \|
 
 Udacity Python for Data Science cert. (2023) \|
 
+Arewa DataScience Certified in Deep Learning with PyTorch
+
+INCO Green Digital Skills Certification \|
+
+DataCamp Certified in AI Fundamentals \|
+
+DataCamp Certified in AI Literacy \|
+
+Udacity Certified, AWS Machine Learning Foundations \|
+
+IBM Certified Data Analyst (In view) \|
+
+DataCamp Certified Data Scientist (In view) 
+
 **Founder:** EduTechTainMent Ltd ®
 
-------------------------------------------------------------------------
+
 
 <!-- ## Web Dev Projects 1
 
@@ -176,8 +192,10 @@ Checkout my [Scopus Profile](https://www.scopus.com/)
 Checkout my [Google Scholar Profile](https://scholar.google.com)
 :::
 
----
+***
+***
 
 <script async data-uid="40bd643e9c" src="https://edutechtainment.kit.com/40bd643e9c/index.js"></script>
 
----
+***
+***

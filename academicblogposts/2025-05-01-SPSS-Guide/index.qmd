@@ -1,0 +1,86 @@
+---
+title: "Basics of Statistical Analysis"
+# author: "Abdulwasiu Bamidele Popoola"
+date: "2025-05-01"
+categories: [spss, statistics, guide, data analysis]
+# image: "image.jpg"
+draft: true
+---
+
+## Introduction
+
+This post is the first in a series of lectures delivered to medical students as part of the Medical Research and Data Analysis Bootcamp, organised by the Federal University Dutse Medical Students Association (FUDUMSA).
+
+You are probably asking yourself: why do I need to know about statistics? Of what importance is statistics to me as a medical professional? I have always disliked mathematics, why should I be bothered to learn about statistics, and by extension mathematics? All these and many more are questions begging for answers. In the field of medicine, the results of most research are quantitative [@banerjee_probability_2009]; someone who is statistically naive will most likely easily and without critical appraisal, make up his mind whether or not to accept the results of a particular study by merely looking at the figures. For example, if a study was conducted to ascertain the effectiveness of a new drug for the treatment of a particular disease, and the study revealed that 55 out of 100 patients were cured with the new drug compared with 45 out of the 100 on placebo, he/she will most likely believe or accept the superiority of the new drug over placebo drug.
+
+The truth is this: we cannot do without the knowledge of statistics and by extension basic maths. Statistics is seen every day of our lives - in the newspapers, on the internet, television, our smartphones, etc. You have heard or read about election polls results, research articles abstracts, house prices, income distributions across various professions and sub-specialities in medicine, etc. More importantly, you have heard about most of these reports making use of samples to arrive at their conclusions. Armed with the knowledge of statistics, you can critically appraise such information and decide if the conclusions made are valid or not, based on all the available evidence at your disposal. It is thus inevitable that you will need the knowledge of statistics, more so in this your chosen career path - MBBS. You will almost never have any cause to manually make any mathematical calculations in your data analytics process. A computer will do all the "mathematical hard-lifting" for you. However, you need to have a good understanding of the fundamentals concepts behind the output of the mathematical calculations carried out by your computer.
+
+There is so much to be said. However, we shall elaborate more on the importance and applications of the knowledge of statistics in, not only your daily life, but more importantly, your practice in the field of medicine. According to Alan Agresti & Christine Franklin:
+
+::: callout
+“Statistics’ ultimate goal is translating data into knowledge”
+:::
+
+The field of statistics is the science of learning from data. The knowledge of statistics helps you use the proper methods to collect the data, employ the correct analyses, and effectively present the results [@frost_introduction_2020]. Any medical professional who wishes to remain stay up to date with the results of medical research needs to develop a statistical sense.
+
+For the results of a research to be valid, it must follow the appropriate processes. The statistical process begins even before the statistical data analysis process.
+
+For the outcome of a research study to be valid we must appreciate the fact that the results of a statistical test depend not only on the observed data but also on the choice of statistical model. The statistician doing analysis of the data has a choice between several tests depending on several factors such as type of model, assumptions, type of data, number of dependent and independent variables, etc. However, rather unfortunately, many medical research workers and even medical students conducting final year project research works, who know little about statistics, leave the statistical analysis to statisticians who know little about medicine; and the end result may well be a series of meaningless calculations. Such people find it difficult or even unable to defend their choice of statistical analysis and don't understand the basic statistical concepts of the P-value, confidence intervals, etc they are reporting.
+
+This part of the bootcamp will be dedicated to introducing the basics of statistical analysis. We shall be getting ou hands dirty learning the very basics and this will serve as a building block to ultimately understanding the concepts and procedures we will be discussing subsequently.
+
+## What is Data Analysis
+
+Data analysis is the process of examining data to draw meaningful conclusions, support decision-making, and identify trends or patterns. It involves the collection, analysis, interpretation, and presentation of data.
+
+## Types of Statistics
+
+Basically there are two types of statistics:
+
+-   Descriptive statistics
+-   Inferential statistics.
+
+Descriptive statistics deals with the process of organizing, summarizing, and presenting data. We summarize data using two ways:
+
+-   Graphing (e.g. drawing a pie chart, bar chart or histogram)
+-   Using numbers (for example, finding an average).
+
+Inferential statistics deals with using probability, probability distributions and sampling to draw conclusions from sample data and applying such valid conclusions to a larger population, i.e. making inferences about a larger population from a smaller representative sample.
+
+## Theory of Probability
+
+Probability is a numerical measure with values between 0 and 1, where 0 indicates impossibility, and 1 indicates certainty. It helps to quantify the likelihood or chance of a particular event occurring. Probability is a mathematical tool used to study randomness. For example, if you toss a fair coin with two sides (a head and a tail) once, the probability of having a head is 1/2 and the probability of having a tail is also 1/2. These outcomes (of a head or a tail) will increase with the number of times the coin is tossed. If you toss the same coin four times, the outcome may not be two heads and two tails - it may be three heads and 1 tail. If you toss the same coin 4,000 times, the outcomes will be close to half heads and half tails. Although the outcomes of a few repetitions are uncertain, there is a regular pattern of outcomes when there are many repetitions. If you flip a coin many times, about half the time you get heads and the other half you get tails. The general rule is this- as you flip the coin more and more, the ratio of heads to tails comes closer and closer to one. The probabilities only refer to what happens if you flip the coin many times. They do not say, for example, that if you flip a coin twice you will get one head and one tail, or that if you flip the coin 10 times you will get exactly 5 heads and 5 tails. What they do say is that as you flip the coin more and more, the ratio of heads to tails will become closer to one.
+
+Consider a situation where events are not equally likely. Assuming a certain football player taking penalty kicks hit the goal 75% - or 3/4 - of her kicks. This does not mean that every time he shoots 4 penal kicks he will score a hit exactly 3 times - rather, it means that if he shoots a very large number of penal kicks, say over the course of a whole season, he will hit the goal about 75% of time. When he shoots any one particular penal kick there are two possible events - he can hit the goal/score (denoted as H) with probability 3/4, or he can miss it (denoted as M) with probability 1/4. These probabilities may be written as: `P(H) = 3/4`, `P(M) = 1/4`.
+
+### Anectodal Evidence
+
+Anecdotal evidence is a story told by individuals. It comes in many forms that can range from personal product reviews or testimonials to word of mouth. Usually it is a review, testimony, or a short account, about the truth or effectiveness of a claim. A distinguishing feature of anecdotal evidence is that it focuses on individual results, is driven by emotion, and presented by individuals who are not subject area experts [@frost_introduction_2020].
+
+According to @frost_introduction_2020, the following are examples of anecdotal evidence:
+
+-   Wow! I took this supplement and lost a lot of weight! This pill must work!
+
+-   I know someone who smoked for decades, and it never produced any significant illness. Those claims about smoking are exaggerated!
+
+This anti-aging cream took years off. It must be the best\
+\
+
+<div>
+
+## Population parameters and Sample Statistics
+
+</div>
+
+In statistics, we generally want to study a population. A population is a collection of persons, things, or objects you wish to study. To study the population, we select a representative sample. In sampling we select a portion/subset of the larger population (referred to as a sample) and study that portion (the sample) to gain information about the population. Parameters are numbers that describe a characteristic of the population.
+
+Studying an entire population is time-consuming and resource-intensive in terms of time, money, manpower, etc. As a result, we usually study only a subset of that population of interest. Taking a sample is a very practical technique to accomplish this. For example, if you wished to know the average score in the UTME (JAMB) exams for the year 2024, it would make sense to select a sample of students who sat for the JAMB exams and analyse their results to determine the average score. This average score can then be said to be the average score obtained by all students who sat for the year 2024 JAMB exams. In this example, the study population will be the entire students who sat for the JAMB exams in the year 2024. In presidential elections, opinion poll samples of 1,000–2,000 people are taken, because it would be near impossible to study the entire population of the country during the poll. The opinion poll is supposed to represent the views of the people in the entire country.
+
+From the information we collect in our sample, we can calculate a statistic. A statistic is a number that represents a property of the sample. Using the example of the JAMB exam above, when we calculate the average score of the students in the sample, that average is an example of a statistic (we commonly refer to it as a sample statistic). **The statistic is an estimate of a population parameter.**
+
+A parameter is a numerical characteristic of the whole population that can be estimated by a statistic. We might know or may not know the population parameter. In situations such as results of a census, when the entire population is studied, we will know the population parameter. In situations when we don't know this parameter, the sample statistics is used as a reliable estimate of the population parameter, provided some important pre-requisites are met. Using our JAMB exam example, the sample statistics we calculated can be used as an estimate of the average score of students in the 2024 JAMB exam. We refer to this average score as a population parameter.
+
+## References
+
+::: {#refs}
+:::

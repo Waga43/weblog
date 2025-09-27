@@ -10,34 +10,38 @@ Welcome to my Weblog. This weblog is created with 💝 by **© EduTechTainMent**
 
 ## About Me
 
-I am Abdulwasiu Bamidele Popoola, a health professional with a passion for ICT. I am a self-taught web developer, and data professional. I have chosen to focus more on Artificial Intelligence and its varied applications in the healthcare industry. Given the current pervasive nature of AI, I hope to be able to contribute, in my own little way, to the AI landscape in my country and the globe at large. I am a passionate learner and show utmost dedication and grit when I put my mind to learning a skill. As a result I sought to become a self-taught data scientist by starting out as a data analyst. This will serve to equip me with the necessary analytical skills to succeed in data science. I believe learning is a step-wise but life-long process. Over the years I have worked to gather the requisite soft and technical skills to make me succeed in this endeavour. Given the importance of domain knowledge and expertise, I believe my wealth of experience in healthcare, better positions me to perform as an excellent health analyst and ultimately a data scientist.
+I am Abdulwasiu Bamidele Popoola, a health professional and an EdTech consultant with a passion for education and ICT. I am a self-taught web developer, and data professional. I have chosen to focus more on Artificial Intelligence and its varied applications in the healthcare industry. Given the current pervasive applications of AI, I hope to be able to contribute, in my own little way, to the AI landscape in my country and the globe at large. I am a passionate learner and show utmost dedication and grit when I put my mind to learning a skill. As a result I sought to become a self-taught data scientist by starting out as a data analyst. This will serve to equip me with the necessary analytical skills to succeed in data science. I believe learning is a step-wise but life-long process. Over the years I have worked to gather the requisite soft and technical skills to make me succeed in this endeavour. Given the importance of domain knowledge and expertise, I believe my wealth of experience in healthcare, better positions me to perform as an excellent health data analyst and ultimately a data scientist.
+
+I love leveraging the use of technology in delivering educational content. This pushed me to acquire relevant skills to become an EdTech consultant. I therefore developed my personal Learning Management System (LMS) by using an open source tool - Moodle.  I organize several trainings and workshops for academic staff members to build capacity in EdTech and E-Learning content development.
 
 A.B. Popoola is the immediate past Director of Health Services, University Health Services, Federal University Dutse (FUD). He is also an adjunct Lecturer, Dept. of Human Physiology, Faculty of Basic Medical Sciences, College of Medicine and Allied Medical Sciences, FUD. He is a Google Certified Data Analyst, took part in the Hamoye Data Science Fellowships ‘22 and '24, a DLYA certified in Data Science and Machine Learning, an ALX-T Udacity Certified Data Analyst, I4GxZuri Full Stack Software Developer, IBM Certified in Python for Data Science and AI, a McKinsey Forward Alumnus, INCO Certified in Green Digital Skills, DataCamp Certified in AI Fundamentals, DataCamp Certified in AI Literacy, Udacity Certified in AWS Machine Learning Foundations.
 
-A. B. Popoola is a member of the Nigerian Medical Association (NMA), Member, Blacks in Technology, Nigeria and a Member, Data Science Network (DSN). I am also a DataCamp Classrooms Ambassador, Federal University Dutse and sole administrator of DataCamp Classrooms scholarships at FUD, mentoring, teaching and administering DataCamp scholarships to students of the university to help them gain globally relevant data skills. In addition, I am also a data mentor to many other students, and staff members, both within and outside the university. I have a passion to teach, impart knowledge and network with like minds both in health sector and the IT domain. Thus I Founded EduTechTainMent Ltd (ETTM), an EdTech company that is involved in leveraging the use of technology in education and is the developer and administrator of [EduTechTainMent forum](https://edutechtainment.net), [EduTechTainMent Learning Management System](https://lms.edutechtainment.net) and [EduTechTainMent YouTube channel](https://www.youtube.com/@edutechtainmentguides).
+A. B. Popoola is a member of the Nigerian Medical Association (NMA), Member, Blacks in Technology, Nigeria and a Member, Data Science Network (DSN). I am also a DataCamp Classrooms Ambassador, Federal University Dutse and sole administrator of DataCamp Classrooms scholarships at FUD, mentoring, teaching and administering DataCamp scholarships to students of the university to help them gain globally relevant data skills. In addition, I am also a data mentor to many other students, and staff members, both within and outside the university. 
+
+I have a passion to teach, impart knowledge and network with like minds both in health sector and the IT domain. Thus I Founded EduTechTainMent Ltd (ETTM), an EdTech company that is involved in leveraging the use of technology in education and is the developer and administrator of [EduTechTainMent forum](https://edutechtainment.net), [EduTechTainMent Learning Management System](https://lms.edutechtainment.net) and [EduTechTainMent YouTube channel](https://www.youtube.com/@edutechtainmentguides).
 
 I am also a member of the team that won a TETFund grant to develop an AI powered system to revolutionize medical education in Nigeria (powered by Anatomia Ltd.)
 
 ## Current Programs/Activities
 
-To further prepare me for what lies ahead, I am currently enrolled in the following programs:
-
-1.  TechUp Africa Mentorship program with premium access [DataQuest](https://dataquest.io)
+1.  TechUp Africa Mentorship program with premium access to [DataQuest](https://dataquest.io)
 2.  Arewa Data Science Program on DataCamp
 3.  [Arewa Deep Learning Scholarship](https://arewadatascience.github.io/).
 4.  [DataCamp Scholarship](https://datacamp.com) by TechUp Africa
-5.  Lecturer for Postgraduate students of the Department of Economics for the professional and academics Masters Program in Health Economics.
-6.  Course facilitator for the AI and other Biotechnology courses offered by the Centre for Biotechnology Research, Bayero University Kano.
-7.  Won a grant together with some of my colleagues at Bayero University for the Physiology Career Awareness and Training Initiative 2025, sponsored by the Physiological Society, in UK.
-8.  Many more .........
+5.  Lecturer for Postgraduate students of the Department of Economics for the professional, postgraduate diploma, and academics Masters Program in Health Economics.
+6.  Adj. Lecturer in the Department of Human Physiology, Faculty of Basic MedicalSciences, FUD taking undergraduate students of MBBS, Human Physiology, Human Anatomy, Public Health, Environment Health, and Nursing programs.
+7.  Curriculum developer and course facilitator for the Certificate in AI (for Teaching and Research) course and other related courses offered by the Centre for Biotechnology Research (CBR), Bayero University Kano.
+8.  Organizing virtual weekly capacity building on the use of AI tools in teaching and research, and data analysis.
 
 ## Contributions and Public Events
 
-In an effort to give back to the society, I am currently mentoring many students and university staff members in FUD and Nigeria at large. I hold regular training sessions to teach people various in-demand tech skills. Some of my mentees have made their marks in the data niche in Nigeria.
+We won a grant (in collaboration with colleagues from BUK) from The Physiological Society, UK, to organize the [Physiology Career Awareness and Training Initiative 2025 (PCATI-2025)](https://waga43.github.io/PCATI-2025). The PCATI-2025 workshop was an innovative idea aimed at creating awareness about the diverse applications and career options in medical physiology, improving research and training capacity for both students and faculty, across all medical schools in Nigerian universities.
+
+In an effort to give back to the society, I am currently mentoring many students in FUD and other Nigerian universities, including university staff members in FUD and Nigeria at large. I hold regular training sessions to teach people various in-demand tech skills. Some of my mentees have made their marks in the data niche in Nigeria.
 
 Furthermore, I am a [DataCamp for Classrooms](https://datacamp.com) ambassador for Federal University Dutse and the administrator of the DataCamp for Classrooms scholarship scheme for my students in FUD. This affords my students the opportunity to learn and acquire globally-relevant skills in tech and particularly data field.
 
-In recognition of my skills, knowledge, contribution, and passion for the advancement of the use of data driven insights to drive medical education and innovation, I was invited as a guest speaker at several events some of which include:
+In recognition of my skills, knowledge, contribution, and passion for the advancement of the use of data driven insights to drive medical education and innovation, I was invited as a guest speaker/workshop facilitator at several events some of which include:
 
 1.  The Nigeria Medical Association (NMA) National Executive Council (NEC 2024) meeting in Kanem Borno during which I delivered a paper on **Artificial Intelligence (AI) and Health: Prospects and Challenges in Low- and Middle- Income Countries**.
 
@@ -55,17 +59,23 @@ In recognition of my skills, knowledge, contribution, and passion for the advanc
 
 6.  Kano Medical Students Association (KAMSA) Journal paper titled: **The Rise of Telemedicine and Artificial Intelligence in Healthcare: A Boon or a Bane**.
 
-7.  Guest speaker at the KAMSA Health week, with the theme: **The Emerging Landscape of Healthcare: Collaborative Intelligence.**
+7.  Guest speaker at the KAMSA Health Week 2025, with the theme: **The Emerging Landscape of Healthcare: Collaborative Intelligence.**
 
-8.  Many more.....
+8.  Workshop facilitator on the Use of Learning Management System (LMS) for innovative Teaching and Research during the PCATI-2025 program.
+9.  I was also invited by the Department of Human Physiology, BUK and the Center for Biotechnolgy Research (CBR), BUK, to organize/facilitate a workshop on Use of AI tools and Web Apps in **Designing Interactive E-Learning Courses & Use of Moodle LMS for Dynamic, and Immersive Teaching & Learning**.
+10. One of the panelists in the Nigeria Medical Association, Jigawa - FutureMap Foundation, Kidney Health Week themed: **Advancing Kidney Health Through Digital Innovation**. During the event, an AI-driven Digital Kidney Wallet to screen for chronic kidney disease was launched.
+11. Moderator of the panel discussion during the National Association fo Jigawa Medical Students (NAJIMS) National Body Health Week themed: **Crossing Borders: The Japaa Dilemma Unveiled - A Clash of Convictions and Perspectives**.
 
----
 
----
+A. B. Popoola is also actively involved in community development. Due to his passion to give back to the community, he got the management of FUD to approve the establishment of a Public Health Unit under the directorate of health services. He has been actively involved in many health initiatives and outreaches too many to mention, working in collaboration with Civil Society Organizations/Non-Governmental Organizations, student associations, and other partners in health.
+
+***
+***
 
 <script async data-uid="40bd643e9c" src="https://edutechtainment.kit.com/40bd643e9c/index.js"></script>
 
----
+***
+***
 ::: callout-important
 ## Motto
 

@@ -300,19 +300,20 @@ resources:
 filters:
   # - collapse-social-embeds
   - embedio
-  - social-share
-share:
-  permalink: "https://waga43.github.io/weblog/"
-  description: "EduTechTainMent Weblog"
-  twitter: true
-  facebook: true
-  reddit: true
-  stumble: true
-  tumblr: true
-  linkedin: true
-  email: true
-  mastodon: true
-  bsky: true
+#   - social-share
+# share:
+#   permalink: "https://waga43.github.io/weblog/"
+#   description: "EduTechTainMent Weblog"
+#   location:
+#   twitter: true
+#   facebook: true
+#   reddit: true
+#   stumble: true
+#   tumblr: true
+#   linkedin: true
+#   email: true
+#   mastodon: true
+#   bsky: true
 
 # page-footer:
 #     background: light
