@@ -61,39 +61,41 @@ Federal University Dutse, Jigawa State, Nigeria.
 
 ## Professional Certifications
 
-Data Science Dojo cert (2022) \|
+Data Science Dojo cert (2022) 👨🏽‍🔬
 
-DLYA Data Science and Machine Learning Graduate \|
+DLYA Data Science and Machine Learning Graduate 👨🏽‍🔬
 
-McKinsey Forward (2022) \|
+McKinsey Forward (2022) 🌍
 
-CoRise Python for Data Science cert. (2022) \| CoRise SQL Crash Course cert. (2022)
+CoRise Python for Data Science cert. (2022) 🐍
 
-I4GxZuri Full-Stack Web Developer Cert. (2022) \|
+CoRise SQL Crash Course cert. (2022) 🌍
 
-Hamoye Data Science (2022 and 2024) \|
+I4GxZuri Full-Stack Web Developer Cert. (2022) 🕸
 
-ALX-T Udacity Certified Data Analyst (2022) \|
+Hamoye Data Science (2022 and 2024) 👨🏽‍🔬
 
-Google Certified Data Analyst (2023) \|
+ALX-T Udacity Certified Data Analyst (2022) 📈
 
-IBM Certified in Python For Data Science and AI \|
+Google Certified Data Analyst (2023) 📈
 
-Udacity Python for Data Science cert. (2023) \|
+IBM Certified in Python For Data Science and AI 🐍
 
-Arewa DataScience Certified in Deep Learning with PyTorch
+Udacity Python for Data Science cert. (2023) 🐍
 
-INCO Green Digital Skills Certification \|
+Arewa DataScience Certified in Deep Learning with PyTorch 🌍
 
-DataCamp Certified in AI Fundamentals \|
+INCO Green Digital Skills Certification 🌍
 
-DataCamp Certified in AI Literacy \|
+DataCamp Certified in AI Fundamentals 🌍
 
-Udacity Certified, AWS Machine Learning Foundations \|
+DataCamp Certified in AI Literacy 🌍
 
-IBM Certified Data Analyst (In view) \|
+Udacity Certified, AWS Machine Learning Foundations 🌍
 
-DataCamp Certified Data Scientist (In view) 
+IBM Certified Data Analyst (In view) 📈
+
+DataCamp Certified Data Scientist (In view) 🌍
 
 **Founder:** EduTechTainMent Ltd ®
 
