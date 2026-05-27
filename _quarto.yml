@@ -239,11 +239,11 @@ format:
     #     target: _blank
 
 
-    code-links: # Setup for readers to download config file
-      - text: " Download My YAML"
-        icon: file-code
-        href: https://github.com/Waga43/weblog/blob/main/environment.yml
-        target: _blank
+    # code-links: # Setup for readers to download config file
+    #   - text: " Download My YAML"
+    #     icon: file-code
+    #     href: https://github.com/Waga43/weblog/blob/main/environment.yml
+    #     target: _blank
 
     link-external-icon: true
     link-external-newwindow: true

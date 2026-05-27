@@ -31,23 +31,29 @@ about:
       target: _blank
 ---
 
+------------------------------------------------------------------------
 
-***
-***
+------------------------------------------------------------------------
+
+::: callout-important
+## 🔥 Latest Activity:
+
+🗣 Guest speaker on: **Technology in Healthcare** at the World Family Doctor Day Celebration organized by the **Society of Family Physicians of Nigeria (SOFPON)**, Kano state chapter, Saturday 23rd May 2026
+:::
 
 Welcome to my Weblog. It's a pleasure having you here. Let me give a quick background information about me.
 
 ## Education
 
-MBBS, Bayero University Kano 
+MBBS, Bayero University Kano
 
-MSc. Human Physiology, Bayero University Kano 
+MSc. Human Physiology, Bayero University Kano
 
+Resident Doctor, Department of Anaesthesia and Intensive Care, Aminu Kano Teaching Hospital (AKTH), Kano State, Nigeria
 
+## Experiences
 
-Head of Clinical and Immediate Past Director, University Health Services,
-
-Federal University Dutse (FUD), Jigawa State, Nigeria
+Immediate Past Director, University Health Services, and Former Head of Clinical Services, University Health Center, Federal University Dutse (FUD), Jigawa State, Nigeria
 
 Adjunct Lecturer, Dept. of Human Physiology,
 
@@ -56,8 +62,6 @@ Faculty of Basic Medical Sciences,
 College of Medicine and Allied Medical Sciences,
 
 Federal University Dutse, Jigawa State, Nigeria.
-
-
 
 ## Professional Certifications
 
@@ -97,10 +101,11 @@ IBM Certified Data Analyst (In view) 📈
 
 DataCamp Certified Data Scientist (In view) 🌍
 
+------------------------------------------------------------------------
+
 **Founder:** EduTechTainMent Ltd ®
 
-
-
+```{=html}
 <!-- ## Web Dev Projects 1
 
 ::: panel-tabset
@@ -133,6 +138,7 @@ Built a [Landing Page for the Nigeria Building and Road Research Institute (NBRR
 And some more 🙂 😊 ........
 
 ::: -->
+```
 
 ------------------------------------------------------------------------
 
@@ -194,10 +200,14 @@ Checkout my [Scopus Profile](https://www.scopus.com/)
 Checkout my [Google Scholar Profile](https://scholar.google.com)
 :::
 
-***
-***
+------------------------------------------------------------------------
 
+------------------------------------------------------------------------
+
+```{=html}
 <script async data-uid="40bd643e9c" src="https://edutechtainment.kit.com/40bd643e9c/index.js"></script>
+```
 
-***
-***
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
